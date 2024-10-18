@@ -9,12 +9,14 @@ description: A tutorial for making a minimalist dagger that can only stab.
 Because these are so small, it almost does not matter at all what you use for a core. You could use any of the recommended sizes of[ Fiberglass Rods](https://docs.foamdom.com/materials/cores#fiberglass-rods), [Fiberglass Tubes](https://docs.foamdom.com/materials/cores#fiberglass-tubes), [Carbon](https://docs.foamdom.com/materials/cores#carbon), or even [PVC ](https://docs.foamdom.com/materials/other#pvc)and shouldn't have any issues with durability or weight. Generally, people use offcuts from other projects to make these.
 
 * Allocate at least 1" for the pommel to attach to the core.
-  * This is easier if you leave 1.5".
+  * The pommel will be more robustly attached if you leave 1.5".
+  * If you leave the full 1.5", add an additional disc to the top of the pommel.
 * Allocate at least 4" for the handle.
   * 5"-7" is generally a more comfortable length of handle.
   * Mock up your handle length before cutting your core to find your own personal sweet spot, making sure to test the sizing while wearing your usual fighting gloves.
-* Allocate at least 1" for the stab tip foundation to attach to the core.
-  * This is easier if you leave 2".
+* Allocate at least 1" for the can/stab tip foundation to attach to the core.
+  * The can will be more robustly attached if you leave 2".
+  * For every 1/2" above 1" you allocate, add an additional disc to the bottom of the can.
 
 At this point you should have a section of core that is 6" if you are making it as small as reasonably possible, or around 8"-9". If you are making a min-dagger, you will need to use extra strapping tape to secure the stab tip foundation to the core before attaching the stab tip itself.&#x20;
 
