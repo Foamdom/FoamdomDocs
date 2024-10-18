@@ -60,6 +60,8 @@
   * [Hatchets & Hammers](build-techniques/covers-and-finishes/hatchets-and-hammers.md)
   * [Shields](build-techniques/covers-and-finishes/shields.md)
   * [PlastiDip](build-techniques/covers-and-finishes/plastidip.md)
+* [Complete Implements](build-techniques/complete-implements/README.md)
+  * [Stab-Only Dagger](build-techniques/complete-implements/stab-only-dagger.md)
 
 ## Weapon Storage
 

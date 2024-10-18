@@ -24,7 +24,7 @@ The most common material found in cores at this time in the sport. 1/2" rods and
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Assorted Fiberglass Rods</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Assorted Fiberglass Rods</p></figcaption></figure>
 
 </div>
 
@@ -40,7 +40,7 @@ Fiberglass rods can generally be purchased at hardware stores, farm supply store
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Assorted Kitespar</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Assorted Kitespar</p></figcaption></figure>
 
 </div>
 
