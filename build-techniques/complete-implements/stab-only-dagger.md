@@ -4,6 +4,12 @@ description: A tutorial for making a minimalist dagger that can only stab.
 
 # Stab-Only Dagger
 
+{% hint style="info" %}
+This tutorial is in-progress. Some referenced techniques are meant to be described elsewhere in the docs as they are generalized techniques, and the intent is to also add photographs, gifs, and videos alongside the CAD screenshots.&#x20;
+{% endhint %}
+
+_Note: This tutorial recommends using discs of foam to build up the pommel and can because it is a more-consistent method than wrapping foam around the core. It also allows you to choose if you want to make the profiles of these parts round, rectangular, or octagonal. It will be easier to make sure that the final result is centered on the core, as well, which takes extra effort when wrapping foam around the core._
+
 ### 1. Cut your core to the desired length, accommodating space for a pommel, handle, and a foundation for the stab tip.
 
 Because these are so small, it almost does not matter at all what you use for a core. You could use any of the recommended sizes of[ Fiberglass Rods](https://docs.foamdom.com/materials/cores#fiberglass-rods), [Fiberglass Tubes](https://docs.foamdom.com/materials/cores#fiberglass-tubes), [Carbon](https://docs.foamdom.com/materials/cores#carbon), or even [PVC ](https://docs.foamdom.com/materials/other#pvc)and shouldn't have any issues with durability or weight. Generally, people use offcuts from other projects to make these.
@@ -68,8 +74,11 @@ At this point you should have a section of core that is 6" if you are making it 
 
 ### 5. Cut 4 discs for the pommel.
 
+_Note: Pommels are required to not be able to pass 1/2" through a 2" hole and for you to not be able to feel the core through the side of the pommel. Foam also compresses as it breaks down over time, so it is recommended to start with a diameter above 2" and to not make the side walls thin, though tapering down to the core/handle wrap is fine._
+
 * These should be 2.25" in diameter and made out of a 4lb foam, like Puzzle Mat or 4# XLPE.
   * These can be round, square, octagonal, etc. The example shows 2.25" diameter octagons.
+  * Only the bottom two discs actually need to be the full 2.25" size. You can create a taper by using successively smaller discs, or create a dynamic profile to suit your needs, so long as the core cannot be felt through the side of the pommel and it still has a solid connection to the core.
 * Punch holes through the middle of 3 of them that are the size of the core.
 
 <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
@@ -102,9 +111,13 @@ At this point you should have a section of core that is 6" if you are making it 
 <figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 * Apply adhesive to the bottom disc and lay the final, solid, disc against it.&#x20;
+* It is at this point that you would want to do any carving to the pommel's foam to adjust its profile.&#x20;
+  * If you do intend to carve away part of the upper part of the pommel, it would be good to first tape the bottom cap to the rest of the pommel and let the adhesive set, if relevant. That tape can be removed for when you do the carving.&#x20;
 * Similarly to how the biscuit and can were affixed to the core with strapping tape, affix the last disc to the pommel and secure the pommel to the core.
   * The adhesive will do a lot of the work on its own, but this will help make sure things stay in place while it sets and add strength after it does.
   * 2 11" pieces of strapping tape should be enough to center on the end of the pommel and wrap down the sides to the core.
+
+
 
 ### 7. Cut and apply the stab tip foam.
 
