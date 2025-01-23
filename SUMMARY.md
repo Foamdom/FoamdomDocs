@@ -8,7 +8,7 @@
 * [Belegarth Official Wiki](https://geddon.org/Belegarth)
 * [Belegarth Official Discord](https://discord.gg/yvRPhVt7x5)
 * [Artificer's Guild Discord](https://discord.gg/qCAt4V6CJw)
-* [Book Of War (Rules)](https://geddon.org/Category:Book\_of\_War)
+* [Book Of War (Rules)](https://geddon.org/Category:Book_of_War)
 
 ## Materials
 
@@ -62,6 +62,7 @@
   * [PlastiDip](build-techniques/covers-and-finishes/plastidip.md)
 * [Complete Implements](build-techniques/complete-implements/README.md)
   * [Stab-Only Dagger](build-techniques/complete-implements/stab-only-dagger.md)
+  * [Spear](build-techniques/complete-implements/spear.md)
 
 ## Weapon Storage
 
