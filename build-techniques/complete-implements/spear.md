@@ -14,9 +14,9 @@ _Note: This tutorial recommends using discs of foam to build up the pommel and c
 
 For something like a 5' hoplite spear you could get away with using solid 1/2"[ Fiberglass Rods](https://docs.foamdom.com/materials/cores#fiberglass-rods) or .602 [Kitespar](https://docs.foamdom.com/materials/cores#fiberglass-tubes), but above that length, you'll want to reach for roll-wrapped [Carbon](https://docs.foamdom.com/materials/cores#carbon) tubes. For lengths under 2 meters (\~78 3/4"), a carbon tube with a \~15mm OD and 2mm-2.5mm walls should be sufficient.
 
-<figure><img src="../../.gitbook/assets/placeholder.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/placeholder.svg" alt=""><figcaption>A 78" length of 15mm*10.5mm Roll-Wrapped Carbon Fiber.</figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption><p>A 78" length of 15mm*10.5mm Roll-Wrapped Carbon Fiber.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/placeholder.svg" alt=""><figcaption>CAPTION</figcaption></figure>
 
 ### 2. Cut a biscuit and apply it to the tip of your core.
 
