@@ -37,10 +37,10 @@ _Find what you need via the directory below or via the sidebar._
 
 ### Striking Regions
 
-| [box.md](build-techniques/striking-regions/box.md "mention") | [wrap.md](build-techniques/striking-regions/wrap.md "mention") |
-| ------------------------------------------------------------ | -------------------------------------------------------------- |
-| [fry.md](build-techniques/striking-regions/fry.md "mention") | [tube.md](build-techniques/striking-regions/tube.md "mention") |
-| [other](build-techniques/striking-regions/other/ "mention")  |                                                                |
+| [box.md](build-techniques/general/foam-layups/box.md "mention")     | [wrap](build-techniques/general/foam-layups/wrap/ "mention")      |
+| ------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| [fry.md](build-techniques/general/foam-layups/fry.md "mention")     | [tube.md](build-techniques/general/foam-layups/tube.md "mention") |
+| [other.md](build-techniques/general/foam-layups/other.md "mention") |                                                                   |
 
 ### Hilt
 
@@ -77,7 +77,7 @@ _Find what you need via the directory below or via the sidebar._
 
 ## External Links
 
-| [Belegarth Official Site](https://www.geddon.org/)                         | [Belegarth Official Wiki](https://geddon.org/Belegarth)    |
-| -------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| [Belegarth Offical Discord](https://discord.gg/yvRPhVt7x5)                 | [Artificer's Guild Discord](https://discord.gg/qCAt4V6CJw) |
-| [Belegarth Book of War (Rules)](https://geddon.org/Category:Book\_of\_War) |                                                            |
+| [Belegarth Official Site](https://www.geddon.org/)                       | [Belegarth Official Wiki](https://geddon.org/Belegarth)    |
+| ------------------------------------------------------------------------ | ---------------------------------------------------------- |
+| [Belegarth Offical Discord](https://discord.gg/yvRPhVt7x5)               | [Artificer's Guild Discord](https://discord.gg/qCAt4V6CJw) |
+| [Belegarth Book of War (Rules)](https://geddon.org/Category:Book_of_War) |                                                            |
