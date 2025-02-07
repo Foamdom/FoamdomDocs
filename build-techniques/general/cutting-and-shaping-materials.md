@@ -14,11 +14,7 @@ description: Techniques and advice for modifying the shape of foam and other mat
 
 
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt="" width="375"><figcaption><p>A top-down diagram of a straight edge clamped to a <br>cutting board over a sheet of foam.<br><br>Key: Grey, Cutting Board; Blue, Foam; Black, Ruler; Red, Clamps.</p></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (28).png" alt="" width="375"><figcaption><p>A top-down diagram of a straight edge clamped to a <br>cutting board over a sheet of foam.<br><br>Key: Grey, Cutting Board; Blue, Foam; Black, Ruler; Red, Clamps.</p></figcaption></figure></div>
 
 
 

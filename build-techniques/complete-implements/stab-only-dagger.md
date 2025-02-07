@@ -26,7 +26,7 @@ Because these are so small, it almost does not matter at all what you use for a 
 
 At this point you should have a section of core that is 6" if you are making it as small as reasonably possible, or around 8"-9". If you are making a min-dagger, you will need to use extra strapping tape to secure the stab tip foundation to the core before attaching the stab tip itself.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption><p>A 6" length of .524 Kitespar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption><p>A 6" length of .524 Kitespar.</p></figcaption></figure>
 
 ### 2. Cut a biscuit and apply it to the tip of your core.
 
