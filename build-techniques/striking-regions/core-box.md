@@ -32,6 +32,8 @@ Recommended:
   * Can be done easily with hand tools
   * Only works well for round striking region profiles
 
+\* Is most easily achieved if you at least have a hand drill.
+
 Not Recommended:
 * Tube
   * Basically 2 fries glued together before you put them on the core
