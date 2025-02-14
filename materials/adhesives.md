@@ -170,7 +170,7 @@ Only worthwhile for attaching blades, crosspieces, and pommels to the core. Grea
 
 ***
 
-## 2-Ton Epoxy
+## Generic 2-Ton Epoxies
 
 <div align="left">
 
