@@ -26,9 +26,14 @@ Purely aestheic. Can use whatever braiding technique suits your fancy, just reme
 
 Below are two examples of braiding/weaving patterns that could be used.
 
-https://youtu.be/Si3QvxE6Ggc?si=M1GH-GBoOMkWhWcO
+{% embed url="https://youtu.be/Si3QvxE6Ggc?si=M1GH-GBoOMkWhWcO" %}
+A demostration of a Triaxial Weave.
+{% endembed %}
 
-https://youtu.be/Ebxg8VgYWz4?si=JPJvL7Q2OT5Bkv0u
+{% embed url="https://youtu.be/Ebxg8VgYWz4?si=JPJvL7Q2OT5Bkv0u" %}
+A demostration of an 8 Strand Round Plait.
+{% endembed %}
+
 
 ***
 
