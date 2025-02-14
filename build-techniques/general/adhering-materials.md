@@ -179,43 +179,111 @@ Because the adhesive doesn't really cure in the same sense as the others do, tem
 
 ### Foam to Core
 
+The foundation of nearly everything we do will rely on the connection between foam and core. If delamination occurs at this point it can allow the foam to twist around the core, introducing new stresses into the assembly, or cascading to further delamination of seams that are exposed to the core. As such, it is important to have good coverage on both the core and the foam, regardless of what adhesive you are using, and to not accidentally undo this coverage during application and assembly. Other than Carpet Tape, every adhesive in this list is capable of creating a bond that will be stronger than the foam it is attached to; in an ideal world, any delamination would occur because the foam tore, rather than the adhesive failing. 
 
-Apply both the 
+#### Ideal Adhesives
+
+**Striking Regions**
+1) 3M Super 77
+ - 2 passes for each surface, apply 2nd pass after allowing first to tack, let tack, join surfaces.
+2) DAP
+ - Apply to core, let tack, apply to both surfaces, let tack, join surfaces.
+3) Carpet Tape
+ - Wrap around the core, allowing it to wrinkle if you aren't using a fry with a routed channel, press foam to wrapped core to bond.
+
+**Crossguards and Pommels**
+1) Hot Glue
+  - Inject between foam and core, apply to open faces of foam before layering.
+2) Epoxy
+  - Apply to whichever surface is easiest, then align and compress surfaces.
+3) 3M Super 77
+  - 2 passes for each surface, apply 2nd pass after allowing first to tack, let tack, join surfaces.
+4) DAP
+ - Apply to core, let tack, apply to both surfaces, let tack, join surfaces.
+5) Carpet Tape
+ - Wrap around the core, allowing it to wrinkle if you aren't using a fry with a routed channel, press foam to wrapped core to bond.
+ - Will require extra reinforcement from strapping tape around the pommel to not twist.
 
 ***
 
 ### Foam to Foam
 
+The next most important surface pairing is also the most common. Delaminated foam to foam connections can lead to catastrophic compression on impact, with the layup not holding its shape and reducing the effective padding provided by the foam. Other than Carpet Tape, every adhesive in this list is capable of creating a bond that will be stronger than the foam it is attached to; in an ideal world, any delamination would occur because the foam tore, rather than the adhesive failing. Adhesive seams can also be stiff and cause the surface to not be as forgiving, so avoiding over-application and squeeze-out is key. The best option for foam to foam connections is heat-welding the foam surfaces together, as this adds no additional weight and generally induces less stiffness, but this is only reasonable for certain applications.
 
+#### Ideal Adhesives
+
+**Striking Regions**
+1) 3M Super 77
+ - Apply 1 pass for each surface, let tack, join surfaces.
+2) DAP
+ - Apply to both surfaces, let tack, join surfaces.
+3) Carpet Tape
+ - Apply with full surface coverage between each surface. 
+
+**Stab Tips**
+1) Carpet Tape
+ - Apply with full surface coverage between each stacked layer of the stab tip.
+ - Makes for a much easier replacement job when the time comes.
+ - Sticks very well to the strapping tape that will be over the biscuit if other recommendations are followed.
+2) 3M Super 77
+ - Apply 1 pass for each surface, let tack, join surfaces.
+ - Cover the biscuit in a fabric tape before using Super 77 to adhere a stab tip to it.
+3) DAP
+ - Apply to both surfaces, let tack, join surfaces.
+ - Cover the biscuit in a fabric tape before using DAP to adhere a stab tip to it.
+
+**Crossguards and Pommels**
+1) Hot Glue
+  - Inject between foam layers, apply to open faces of foam before layering.
+2) Epoxy
+  - Apply to whichever surface is easiest, then align and compress surfaces.
+3) 3M Super 77
+  - Apply 1 pass for each surface, let tack, join surfaces.
+4) DAP
+  - Apply to both surfaces, let tack, join surfaces.
+5) Carpet Tape
+  - Wrap around the core, allowing it to wrinkle if you aren't using a fry with a routed channel, press foam to wrapped core to bond.
+  - Will require extra reinforcement from strapping tape around the pommel to not twist.
 
 ***
 
 ### Tape to Foam
 
+Sometimes, tape doesn't stick good. In these instances, where you want the properties of the tape but the adhesive on it isn't up to snuff, you can sometimes help it along with other adhesives.
+
+Duct/Gorilla tapes can be encouraged to not pull up by being put over a light application of Super 77 or DAP that has been allowed to tack to a relatively dry state, or over Carpet Tape.
+
+The solvents in Super 77 and DAP will generally cause issues for strapping tapes, packaging tape, and tyvec tape, unless they are already quite dry, but Carpet Tape can be used as an intermediary without having to judge when it will be ready.
+
+In both of these isntances, this adds extra weight, with the option of using Carpet Tape adding the most.
 
 ***
 
 ### Foam to Tape
 
+Sometimes, you will need to put foam over tape (and it won't always be over Carpet Tape). This is most significant around the Biscuit at the tip of the core, where you will generally see strapping tape or some other smooth-backed tape holding it in place. Using adhesives like Super 77 and DAP over smooth-backed tape is not recommended, as it will not adhere well to the tape backing, and because the solvents could interfere with the adhesive on the tape itself.
 
+The best way to combat this is to wrap the smooth-backed tape in a layer of fabric tape, which will adhere well to the smooth backed tape and itself, while also creating a porous surface for the liquid adhesives to soak into and create a solid bond against, or to wrap Carpet Tape around the smooth-backed tape, and use that to adhere the foam. The former, of course, provides a much stronger bond.
 
 ***
 
 ### Quartered PVC to Core
 
-
+Just use thin strips of Carpet Tape, especially in the handle. If extending this up the core to reduce flex and increase durability, don't adhere the core to the last few inches of the PVC, and make sure to wrap the laminated core in Carpet Tape, stopping where you stopped the adhesion, which will hold the laminated layers together and provide a good surface for bonding foam to the composite core.
 
 ***
 
 ### Handle Wrap to Handle/Core
 
-
+Put a strip of Carpet Tape on each side of the handle, or a wrap of Carpet Tape around the handle. 
 
 ***
 
 ### Cover to Foam
 
+Small strips of Carpet Tape can be used to great effect to tack down covers to the sides of arrow/dagger/spear/javelin cans before applying a fabric tape wrap to lock them in place. This can also be used for shield covers, to tack them in place for applying a duct/Gorllia tape seal, and help hold them down long term.
 
+Weapon covers for swung weapons can also be taped on instead of having drawstrings or ties. Either have the cover extend past the end of the striking surfaces and do a tight tape wrap to secure it in place, or have it stop 2" shy of the end of what would ostensibly be the striking surface, tack it down with a vertical strip on opposite faces of the weapon, and then do a wrap, starting on the cover, that covers the last 2" of the cover and the 2" below it. The latter turns that tape-covered section into incidental padding, but this is a non-issue if you planned for it ahead of time, and the people you accidentally hit with that bit will happier it's softer than it could have been, and it can look really nice when done well.
 
 ***
 
