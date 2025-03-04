@@ -13,7 +13,8 @@
 ## Materials
 
 * [Foam](materials/foam.md)
-* [Cores](materials/cores.md)
+* [Cores](materials/cores/README.md)
+  * [Custom Carbon Fiber Cores](materials/cores/custom-carbon-fiber-cores.md)
 * [Adhesives](materials/adhesives.md)
 * [Tape](materials/tape.md)
 * [Other](materials/other.md)

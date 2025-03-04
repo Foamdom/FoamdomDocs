@@ -12,7 +12,7 @@ Cores are the foundation of a weapon and are often the longest lasting part, wit
 
 Below are breakdowns of commonly used cores. As for general recommendations:
 
-_Note: PVC and Bandshoppe used to be popular options, but they are far outshone by newer choices and are not included. The_ [#pvc](other.md#pvc "mention") _(_[other.md](other.md "mention")_) and_ [pvc-tubes.md](../weapon-storage/pvc-tubes.md "mention") _(_[Broken link](broken-reference "mention")_) pages may be helpful to you if you are still interested in PVC as a material._
+_Note: PVC and Bandshoppe used to be popular options, but they are far outshone by newer choices and are not included. The_ [#pvc](../other.md#pvc "mention") _(_[other.md](../other.md "mention")_) and_ [pvc-tubes.md](../../weapon-storage/pvc-tubes.md "mention") _(_[Broken link](broken-reference "mention")_) pages may be helpful to you if you are still interested in PVC as a material._
 
 <table><thead><tr><th width="252">Core Type</th><th>Notes</th></tr></thead><tbody><tr><td>1/2" Fiberglass Rod</td><td><ul><li>Very durable, but heavy. </li><li>Ok in a pinch or for weapons where weight isn't a concern. </li><li>Good for weapons up to 60".</li><li>Can be found in stores.</li><li>Should be upgraded to .524 or .602 kitespar, if possible.</li></ul></td></tr><tr><td>.500" Fiberglass Tube</td><td><ul><li>Lightweight, and relatively affordable.</li><li>Good for weapons up to 30".</li><li>Special order only.</li></ul></td></tr><tr><td>.524" Fiberglass Tube</td><td><ul><li>Lightweight, and relatively affordable.</li><li>Stronger and stiffer than .500" Fiberglass.</li><li><p>Good for weapons up to 42"</p><ul><li>48" when clad with quartered 1/2" PVC.</li></ul></li><li>Special order only.</li></ul></td></tr><tr><td>.602" Fiberglass Tube</td><td><ul><li>Lightweight, and relatively affordable.</li><li>Stronger and stiffer than .524" Fiberglass.</li><li>Good for weapons from 42" to 65".</li><li>Special order only.</li></ul></td></tr><tr><td>.500" Carbon Tube</td><td><ul><li>Extremely lightweight, but more expensive.</li><li>Stronger and stiffer than .524" Fiberglass.</li><li>Good for weapons up to 48".</li><li>Special order only.</li></ul></td></tr><tr><td>.625" Carbon Tube</td><td><ul><li>Extremely lightweight, but more expensive.</li><li>Stronger and stiffer than .500" Carbon.</li><li>Available with multiple inner diameters, with the thicker walled option being stronger.</li><li>Good for weapons from 48" to 72".</li><li>Special order only.</li></ul></td></tr><tr><td>Wrapped Carbon Tubes</td><td><ul><li>Extremely lightweight, but more expensive and heavier than unwrapped carbon tubes.</li><li>Stronger and stiffer than unwrapped tubes.</li><li>Available with various wraps, each with different properties, some stronger than others.</li><li>Custom wraps can be ordered from some vendors.</li><li><p>Good for weapons up to 144", depending on wrap.</p><ul><li>Swung weapons up to 96"</li><li>Thrusting-only weapons up to 144"</li></ul></li><li>Special order only.</li></ul></td></tr><tr><td>Graphite</td><td><ul><li>Absurdly lightweight.</li><li>Generally found as old graphite golf clubs, so are inexpensive, but are short and tapered. </li><li>Not as durable as Fiberglass Tubes.</li><li>Good for weapons under 36".</li><li>Can be found at thrift stores.</li></ul></td></tr></tbody></table>
 
@@ -22,7 +22,7 @@ The most common material found in cores at this time in the sport. 1/2" rods and
 
 ### Fiberglass Rods
 
-<div align="left"><figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption><p>Assorted Fiberglass Rods</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption><p>Assorted Fiberglass Rods</p></figcaption></figure></div>
 
 Fiberglass rods can generally be purchased at hardware stores, farm supply stores, and the like. Because you generally have to order fiberglass tubes online, rods can be a great option for inexpensively and quickly getting started making weapons for foam fighting. That said, if you need lengths beyond 48" or need to keep weight down, you are generally going to need to place an online order and might as well get the appropriate tube or upgrade to a carbon core. Rods can generally be found in-stores in 3 sizes:&#x20;
 
@@ -34,7 +34,7 @@ Fiberglass rods can generally be purchased at hardware stores, farm supply store
 
 ### Fiberglass Tubes
 
-<div align="left"><figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption><p>Assorted Kitespar</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption><p>Assorted Kitespar</p></figcaption></figure></div>
 
 Fiberglass tubes, often referred to as "kitespar", are the best value core option. They are extremely lightweight, allowing you a great deal of control over the weight distribution of the weapon, while still being strong enough to be used for the sport. While more expensive than rods and requiring placing an online order, the quality of life improvement that comes from using kitespar over solids more than makes it worth it in most situations. There are 2 sizes of fiberglass tube that are relevant to our sport:
 
@@ -54,19 +54,19 @@ _As of Sept, 2025,_ [_Cold Mountain Company_](https://www.etsy.com/shop/ColdMoun
 
 ## Carbon
 
-<div align="left"><figure><img src="../.gitbook/assets/Untitled (19).jpg" alt=""><figcaption><p>Chip Charcoal</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/Untitled (19).jpg" alt=""><figcaption><p>Chip Charcoal</p></figcaption></figure></div>
 
-Carbon can be seen as a straight upgrade from [#fiberglass](cores.md#fiberglass "mention"). It is lighter (a 1/2" carbon rod weighs about 3.25 oz at 60" long) and stronger, both being more durable and resisting flex better. Because they are something that has to be special ordered, and solid carbon rods weighing much more than their hollow fiberglass counterparts, solid carbon rods can largely be ruled out.&#x20;
+Carbon can be seen as a straight upgrade from [#fiberglass](./#fiberglass "mention"). It is lighter (a 1/2" carbon rod weighs about 3.25 oz at 60" long) and stronger, both being more durable and resisting flex better. Because they are something that has to be special ordered, and solid carbon rods weighing much more than their hollow fiberglass counterparts, solid carbon rods can largely be ruled out.&#x20;
 
 ### Tubes
 
-<div align="left"><figure><img src="../.gitbook/assets/c_tube_fan20_800w_76.webp" alt="" width="300"><figcaption><p>Assorted Carbon Tubes</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/c_tube_fan20_800w_76.webp" alt="" width="300"><figcaption><p>Assorted Carbon Tubes</p></figcaption></figure></div>
 
 1/2" tubes are sufficient for max blues and min-reds, but there are also multiple variants of .6"-.7" tubes with different inner diameters (with thicker walls making for stronger and heavier tubes) that can be used for longer weapons and increased strength.&#x20;
 
 ### Wrapped Tubes
 
-<div align="left"><figure><img src="../.gitbook/assets/Uni-wrapped-1.webp" alt="" width="150"><figcaption><p>A spiral wrapped carbon tube</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/Uni-wrapped-1.webp" alt="" width="150"><figcaption><p>A spiral wrapped carbon tube</p></figcaption></figure></div>
 
 Carbon tubes with further carbon or fiberglass reinforcement. These wraps are generally either a spiral wrap, braid, or twill pattern. Wrapped carbon tubes can often end up just slightly thicker than their designated size due to the wrap, and 1/2" options may have an outer diameter of closer to .6" depending on the thickness of the wrap, or because the vendor has them labeled by inner diameter. Different wraps produce different results, pay attention to the product descriptions on vendor sites.
 
