@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Foamdom Docs](README.md)
+* [Whackipedia](README.md)
 
 ## External Links
 
