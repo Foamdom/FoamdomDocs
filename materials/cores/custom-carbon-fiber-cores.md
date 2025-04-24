@@ -50,7 +50,7 @@ For those of you who don't see 30% lighter than Kitespar (13mm\*10mm) as light e
 2 oz @ 34" \
 14\*12 \
 13.25\*11 \
-12.5\*10
+~~12.5\*10~~ (More flex than other dimensions)
 
 1.5 oz @ 34" (Not viable, walls too thin, did not last long) \
 ~~13.75\*12~~ \
