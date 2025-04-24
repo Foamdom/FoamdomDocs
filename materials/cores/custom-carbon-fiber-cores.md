@@ -52,9 +52,9 @@ For those of you who don't see 30% lighter than Kitespar (13mm\*10mm) as light e
 13.25\*11 \
 12.5\*10
 
-1.5 oz @ 34" \
-13.75\*12 \
-12.75\*11
+1.5 oz @ 34" (Not viable, walls too thin, did not last long) \
+~~13.75\*12~~ \
+~~12.75\*11~~
 
 We don't _know_ that the tubes will be those weights at those lengths, but math suggests those should be super close. We also don't know how well they will hold up, but it these are less than $10 apiece from the supplier.
 
