@@ -1,0 +1,2 @@
+# Javelin Tips (stub)
+

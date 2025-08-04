@@ -2,7 +2,7 @@
 description: Landing page and triage.
 ---
 
-# Foamdom Docs
+# Whackipedia
 
 {% hint style="info" %}
 This wiki is currently a work in progress. Your feedback and suggestions are welcome! You can submit both via the connected GitHub Repo.
@@ -12,7 +12,7 @@ _Find what you need via the directory below or via the sidebar._
 
 ## Materials
 
-| [foam.md](materials/foam.md "mention")           | [cores](materials/cores/ "mention")    |
+| [foam](materials/foam/ "mention")                | [cores](materials/cores/ "mention")    |
 | ------------------------------------------------ | -------------------------------------- |
 | [adhesives.md](materials/adhesives.md "mention") | [tape.md](materials/tape.md "mention") |
 | [other.md](materials/other.md "mention")         |                                        |
@@ -60,7 +60,7 @@ _Find what you need via the directory below or via the sidebar._
 
 ### Covers & Finishes
 
-| [foam.md](materials/foam.md "mention")           | [cores](materials/cores/ "mention")    |
+| [foam](materials/foam/ "mention")                | [cores](materials/cores/ "mention")    |
 | ------------------------------------------------ | -------------------------------------- |
 | [adhesives.md](materials/adhesives.md "mention") | [tape.md](materials/tape.md "mention") |
 | [other.md](materials/other.md "mention")         |                                        |

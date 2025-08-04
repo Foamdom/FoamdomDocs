@@ -14,15 +14,11 @@ Below are breakdowns of many commonly used foams, as well as some niche options 
 
 
 
-<table><thead><tr><th width="141">Use Case</th><th width="430">Recommended Foam(s)</th><th>Other Options</th></tr></thead><tbody><tr><td>Striking Surface</td><td><ul><li><a data-mention href="foam.md#tubes-and-fries">#tubes-and-fries</a></li><li><a data-mention href="foam.md#id-2lb-minicel-l-xlpe-cross-linked-polyethylene">#id-2lb-minicel-l-xlpe-cross-linked-polyethylene</a></li><li><a data-mention href="foam.md#volara">#volara</a></li></ul></td><td><a data-mention href="foam.md#id-2lb-closed-cell-polyethylene-foam">#id-2lb-closed-cell-polyethylene-foam</a></td></tr><tr><td>Pommel</td><td><ul><li><a data-mention href="foam.md#id-4lb-closed-cell-cross-linked-polyethylene-foam">#id-4lb-closed-cell-cross-linked-polyethylene-foam</a></li><li><a data-mention href="foam.md#firm-eva-foam">#firm-eva-foam</a></li></ul></td><td><a data-mention href="foam.md#id-2lb-closed-cell-polyethylene-foam">#id-2lb-closed-cell-polyethylene-foam</a></td></tr><tr><td>Guard/Crosspiece</td><td><ul><li><a data-mention href="foam.md#id-4lb-closed-cell-cross-linked-polyethylene-foam">#id-4lb-closed-cell-cross-linked-polyethylene-foam</a></li><li><a data-mention href="foam.md#firm-eva-foam">#firm-eva-foam</a></li></ul></td><td><a data-mention href="foam.md#id-2lb-closed-cell-polyethylene-foam">#id-2lb-closed-cell-polyethylene-foam</a></td></tr><tr><td>Box <br>(foam against core)</td><td><ul><li><a data-mention href="foam.md#id-4lb-closed-cell-cross-linked-polyethylene-foam">#id-4lb-closed-cell-cross-linked-polyethylene-foam</a></li><li><a data-mention href="foam.md#firm-eva-foam">#firm-eva-foam</a></li></ul></td><td><a data-mention href="foam.md#id-2lb-closed-cell-polyethylene-foam">#id-2lb-closed-cell-polyethylene-foam</a></td></tr><tr><td>Stab Tip</td><td><ul><li><a data-mention href="foam.md#nbr-acrylonitrile-butadiene-rubber-foam">#nbr-acrylonitrile-butadiene-rubber-foam</a></li><li><a data-mention href="foam.md#ensolite">#ensolite</a></li></ul></td><td><a data-mention href="foam.md#soft-eva-foam">#soft-eva-foam</a></td></tr><tr><td>Rocks</td><td><ul><li><a data-mention href="foam.md#id-1lb-3lb-open-cell-foam">#id-1lb-3lb-open-cell-foam</a></li></ul></td><td>Shredded 2lb Foam Scraps</td></tr><tr><td>Shields</td><td><ul><li><a data-mention href="foam.md#shield-blanks">#shield-blanks</a></li><li><a data-mention href="foam.md#id-2.3lb-polyethylene-foam">#id-2.3lb-polyethylene-foam</a></li></ul></td><td><ul><li><a data-mention href="foam.md#id-2lb-closed-cell-polyethylene-foam">#id-2lb-closed-cell-polyethylene-foam</a></li><li><a data-mention href="foam.md#id-4lb-closed-cell-cross-linked-polyethylene-foam">#id-4lb-closed-cell-cross-linked-polyethylene-foam</a></li><li><a data-mention href="foam.md#firm-eva-foam">#firm-eva-foam</a></li></ul></td></tr></tbody></table>
+<table><thead><tr><th width="141">Use Case</th><th width="430">Recommended Foam(s)</th><th>Other Options</th></tr></thead><tbody><tr><td>Striking Surface</td><td><ul><li><a data-mention href="./#tubes-and-fries">#tubes-and-fries</a></li><li><a data-mention href="./#id-2lb-minicel-l-xlpe-cross-linked-polyethylene">#id-2lb-minicel-l-xlpe-cross-linked-polyethylene</a></li><li><a data-mention href="./#volara">#volara</a></li></ul></td><td><a data-mention href="./#id-2lb-closed-cell-polyethylene-foam">#id-2lb-closed-cell-polyethylene-foam</a></td></tr><tr><td>Pommel</td><td><ul><li><a data-mention href="./#id-4lb-closed-cell-cross-linked-polyethylene-foam">#id-4lb-closed-cell-cross-linked-polyethylene-foam</a></li><li><a data-mention href="./#firm-eva-foam">#firm-eva-foam</a></li></ul></td><td><a data-mention href="./#id-2lb-closed-cell-polyethylene-foam">#id-2lb-closed-cell-polyethylene-foam</a></td></tr><tr><td>Guard/Crosspiece</td><td><ul><li><a data-mention href="./#id-4lb-closed-cell-cross-linked-polyethylene-foam">#id-4lb-closed-cell-cross-linked-polyethylene-foam</a></li><li><a data-mention href="./#firm-eva-foam">#firm-eva-foam</a></li></ul></td><td><a data-mention href="./#id-2lb-closed-cell-polyethylene-foam">#id-2lb-closed-cell-polyethylene-foam</a></td></tr><tr><td>Box <br>(foam against core)</td><td><ul><li><a data-mention href="./#id-4lb-closed-cell-cross-linked-polyethylene-foam">#id-4lb-closed-cell-cross-linked-polyethylene-foam</a></li><li><a data-mention href="./#firm-eva-foam">#firm-eva-foam</a></li></ul></td><td><a data-mention href="./#id-2lb-closed-cell-polyethylene-foam">#id-2lb-closed-cell-polyethylene-foam</a></td></tr><tr><td>Stab Tip</td><td><ul><li><a data-mention href="./#nbr-acrylonitrile-butadiene-rubber-foam">#nbr-acrylonitrile-butadiene-rubber-foam</a></li><li><a data-mention href="./#ensolite">#ensolite</a></li></ul></td><td><a data-mention href="./#soft-eva-foam">#soft-eva-foam</a></td></tr><tr><td>Rocks</td><td><ul><li><a data-mention href="./#id-1lb-3lb-open-cell-foam">#id-1lb-3lb-open-cell-foam</a></li></ul></td><td>Shredded 2lb Foam Scraps</td></tr><tr><td>Shields</td><td><ul><li><a data-mention href="./#shield-blanks">#shield-blanks</a></li><li><a data-mention href="./#id-2.3lb-polyethylene-foam">#id-2.3lb-polyethylene-foam</a></li></ul></td><td><ul><li><a data-mention href="./#id-2lb-closed-cell-polyethylene-foam">#id-2lb-closed-cell-polyethylene-foam</a></li><li><a data-mention href="./#id-4lb-closed-cell-cross-linked-polyethylene-foam">#id-4lb-closed-cell-cross-linked-polyethylene-foam</a></li><li><a data-mention href="./#firm-eva-foam">#firm-eva-foam</a></li></ul></td></tr></tbody></table>
 
 ## 2lb Closed-Cell Polyethylene Foam
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/Untitled (20).jpg" alt=""><figcaption><p>Standard 2lb Polyethylene Foam</p></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/Untitled (20).jpg" alt=""><figcaption><p>Standard 2lb Polyethylene Foam</p></figcaption></figure></div>
 
 | Use Case                | Grade      |
 | ----------------------- | ---------- |
@@ -35,11 +31,7 @@ Fine, but not great for all around use. Primarily useful for the parts that hit 
 
 ### "Blue Foam" (Camp Pads)
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/Untitled (21).jpg" alt=""><figcaption><p>Ozark Camp Pad</p></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/Untitled (21).jpg" alt=""><figcaption><p>Ozark Camp Pad</p></figcaption></figure></div>
 
 1/2" thick, 2lb closed-cell polyethylene foam sheets. Commonly used, widely available, easy to cut. One of the major downsides is needing to use a large amount of adhesives to glue multiple layers of foam together where thicker foam options reduce this need.&#x20;
 
@@ -47,11 +39,7 @@ Note: _The product itself is labeled as being a polyolefin; this just means that
 
 ### Cross Linked 2lb Polyethylene
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/Untitled (22).jpg" alt=""><figcaption><p>Cross Linked 2lb Polyethylene</p></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/Untitled (22).jpg" alt=""><figcaption><p>Cross Linked 2lb Polyethylene</p></figcaption></figure></div>
 
 A higher quality, more durable, and all-around-upgrade to "standard" Closed-Cell Polyethelene Sheets and Camp Pads. It has better impact damping than the non-cross-linked forms and holds its shape better while compressing, leading to less twisting. It also resists shearing and tearing better than non-cross-linked polyethelene, making for a much longer lasting striking surface. The only downside is that it is firmer, which means the foam may need broken in depending on the weight of the weapon and the construction of your striking surface.
 
@@ -63,11 +51,9 @@ A higher quality, more durable, and all-around-upgrade to "standard" Closed-Cell
 
 ## 2lb Minicel-L XLPE (Cross Linked Polyethylene)
 
-<div align="left">
+<div align="left"><figure><img src="../../.gitbook/assets/Untitled (23).jpg" alt=""><figcaption><p>Minicel L200</p></figcaption></figure></div>
 
-<figure><img src="../.gitbook/assets/Untitled (23).jpg" alt=""><figcaption><p>Minicel L200</p></figcaption></figure>
 
-</div>
 
 | Use Case         | Grade   |
 | ---------------- | ------- |
@@ -83,11 +69,7 @@ A much more fine-celled foam that is both softer and has higher durability than 
 
 ## 4lb Closed-Cell Cross Linked Polyethylene Foam
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/Untitled (25).jpg" alt=""><figcaption><p>4lb Closed-Cell Cross Linked Polyethylene</p></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/Untitled (25).jpg" alt=""><figcaption><p>4lb Closed-Cell Cross Linked Polyethylene</p></figcaption></figure></div>
 
 | Use Case                | Grade   |
 | ----------------------- | ------- |
@@ -105,11 +87,7 @@ You aren't going to find a better-rounded and easy-to-source foam to handle bein
 
 ## Firm EVA Foam
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/Untitled (24).jpg" alt=""><figcaption><p>Generic Puzzle Mat</p></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/Untitled (24).jpg" alt=""><figcaption><p>Generic Puzzle Mat</p></figcaption></figure></div>
 
 | Use Case                | Grade     |
 | ----------------------- | --------- |
@@ -131,11 +109,7 @@ Generally sold in sets of 4 2'x2' squares with dovetail teeth along 2 or more si
 
 ### Volara
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/Untitled (26).jpg" alt=""><figcaption><p>Volara 2A (Polyethylene)</p></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/Untitled (26).jpg" alt=""><figcaption><p>Volara 2A (Polyethylene)</p></figcaption></figure></div>
 
 | Use Case                | Grade   |
 | ----------------------- | ------- |
@@ -152,11 +126,7 @@ A 2lb, closed-cell, cross-linked foam. Can make weapons that tend to feel nicer 
 
 ## Soft EVA Foam
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/Untitled (27).jpg" alt=""><figcaption><p>Stadium Seat Cushions</p></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/Untitled (27).jpg" alt=""><figcaption><p>Stadium Seat Cushions</p></figcaption></figure></div>
 
 | Use Case  | Grade  |
 | --------- | ------ |
@@ -174,11 +144,7 @@ This is what you'd find in Stadium Seats and Yoga Mats. It makes ok stab tips, b
 
 ## NBR (Acrylonitrile Butadiene Rubber) Foam
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/Untitled (28).jpg" alt=""><figcaption><p>Husky NBR Kneeling Mat</p></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/Untitled (28).jpg" alt=""><figcaption><p>Husky NBR Kneeling Mat</p></figcaption></figure></div>
 
 | Use Case  | Grade   |
 | --------- | ------- |
@@ -198,11 +164,7 @@ Ensolite is a specific blend of NBR foam that can be bought in commercial sheets
 
 ## 1lb-3lb Open Cell Foam
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/Untitled (29).jpg" alt=""><figcaption><p>Generic Open Cell Foam Cushion</p></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/Untitled (29).jpg" alt=""><figcaption><p>Generic Open Cell Foam Cushion</p></figcaption></figure></div>
 
 | Use Case | Grade   |
 | -------- | ------- |
@@ -218,11 +180,7 @@ Couch cushions, chair cushions, and the like, are generally made of open cell fo
 
 ## Tubes & Fries
 
-<div align="left" data-full-width="false">
-
-<figure><img src="../.gitbook/assets/SwordBlankPile_1024x1024@2x.webp" alt="" width="188"><figcaption><p>SLA'r Noodle (Tube)</p></figcaption></figure>
-
-</div>
+<div align="left" data-full-width="false"><figure><img src="../../.gitbook/assets/SwordBlankPile_1024x1024@2x.webp" alt="" width="188"><figcaption><p>SLA'r Noodle (Tube)</p></figcaption></figure></div>
 
 | Use Case         | Grade   |
 | ---------------- | ------- |
