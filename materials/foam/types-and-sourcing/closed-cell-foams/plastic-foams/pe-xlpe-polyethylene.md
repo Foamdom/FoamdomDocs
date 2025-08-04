@@ -37,7 +37,9 @@ Good foam, but not great for all around use. Primarily useful for shields, but s
 
 <div align="left"><figure><img src="../../../../../.gitbook/assets/Untitled (22).jpg" alt=""><figcaption><p>Cross Linked 2lb Polyethylene</p></figcaption></figure></div>
 
-A higher quality, more durable, and all-around-upgrade to "standard" Closed-Cell Polyethelene Sheets and Camp Pads. It has better impact damping than the non-cross-linked forms and holds its shape better while compressing, leading to less twisting. It also resists shearing and tearing better than non-cross-linked polyethelene, making for a much longer lasting striking surface. The only downside is that it is firmer, which means the foam may need broken in depending on the weight of the weapon and the construction of your striking surface.
+A higher quality, more durable, and all-around-upgrade to "standard" Closed-Cell Polyethelene Sheets and Camp Pads. It has better impact damping than the non-cross-linked forms and holds its shape better while compressing, leading to less twisting. It also resists shearing and tearing better than non-cross-linked polyethelene, which helps it last much longer before wearing out. It is my go-to for haft padding, and has some of the best compression recovery of any foam listed on this wiki; I have had multiple weapons with failing divots on their hafts from getting pinched in transport "heal" themselves when left alone for a week. &#x20;
+
+The only downside is that it is firmer, which means that it is not great for striking surfaces. I have had success using a 1/4" layer of this foam as a skin on 2.6-2.75" diameter Volara/Duratube fries to further cushion striking surface on large polearms. I also use it around my biscuits and under my stab tips, and have found that the small volume and decreased thickness make the increased stiffness moot, while providing a more-stable base for the stab tip.
 
 ***
 
