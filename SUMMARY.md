@@ -25,7 +25,7 @@
         * [Ensolite/NBR (Nitrile Butadiene Rubber)](materials/foam/types-and-sourcing/closed-cell-foams/rubber-foams/ensolite-nbr-nitrile-butadiene-rubber.md)
     * [Open Cell Foams](materials/foam/types-and-sourcing/open-cell-foams/README.md)
       * [Page 1](materials/foam/types-and-sourcing/open-cell-foams/page-1.md)
-    * [Vendor Tubes/Foam Suppliers](materials/foam/types-and-sourcing/vendor-tubes-foam-suppliers.md)
+    * [Vendor Tubes](materials/foam/types-and-sourcing/vendor-tubes.md)
 * [Cores](materials/cores/README.md)
   * [Usage Recommendations (stub)](materials/cores/usage-recommendations-stub.md)
   * [Types & Sourcing (stub)](materials/cores/types-and-sourcing-stub/README.md)

@@ -5,7 +5,7 @@ description: >-
   from converters and industry-level suppliers.
 ---
 
-# Vendor Tubes/Foam Suppliers
+# Vendor Tubes
 
 ## Vendor Fries/Reblades/Tubes
 
@@ -23,6 +23,10 @@ A name used by various vendors to refer to their omni-reblades. Same material th
 \
 In our searching, we have identified a few possible candidates for what this foam is, including Zotefoam's LD33 or VA35 and Worldwide Foam's WZ30.&#x20;
 
+#### Sources
+
+[https://www.etsy.com/shop/ColdMountainCompany?section\_id=42685146](https://www.etsy.com/shop/ColdMountainCompany?section_id=42685146)
+
 [https://www.forgedfoam.com/product/omni-blade-tube/](https://www.forgedfoam.com/product/omni-blade-tube/)
 
 ### Aethertube
@@ -37,18 +41,21 @@ I am unable to find current sources of Aethertube.
 
 A recent offering from Smiling Foam Works. From appearances and description, I expect this is the closest current offering to Aethertube, but have not had any on hand to test. Just from looking on their page, though, the product image displays tubes with different chamfer depths, and a very visible seam from the sheets being laminated together (likely using an acrylic adhesive) while also claiming to be glueless and seamless in a banner across the bottom of the same image. The seam isn't an issue, but since they (at least) don't acknowledge it and possibly don't understand that it's glue (if it isn't a heat bond), I've leaned towards not purchasing any, myself.
 
+#### Sources
+
 [https://www.smilingfoamworks.com/materials/mithraltube](https://www.smilingfoamworks.com/materials/mithraltube)
 
 ### Volara Reblades
 
 Almost certainly cut down from 4" thick Volara Block, only currently provided by Gorg. Should be comparable to Duratube, but are cylindrical instead of octagonal prisms and come in a single piece with a slit for inserting the core from the side. A bit expensive for what you're getting, but undeniably good material in a good form factor.\
 \
-[https://www.gorgtech.com/shop/blue-omni-reblade-kit-2-5-diameter/](https://www.gorgtech.com/shop/blue-omni-reblade-kit-2-5-diameter/)\
-[https://www.gorgtech.com/shop/red-omni-reblade-kit/](https://www.gorgtech.com/shop/red-omni-reblade-kit/)
+Personally, I make my own Volara reblades by heatbonding 3/8" thick, 3" wide, strips of Volara and cutting them to shape on a bandsaw.
+
+#### Sources  [https://www.gorgtech.com/shop/blue-omni-reblade-kit-2-5-diameter/](https://www.gorgtech.com/shop/blue-omni-reblade-kit-2-5-diameter/) [https://www.gorgtech.com/shop/red-omni-reblade-kit/](https://www.gorgtech.com/shop/red-omni-reblade-kit/)
 
 ## Foam Suppliers
 
-
+Section in progress.
 
 ## &#x20;
 
