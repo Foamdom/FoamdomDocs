@@ -2,10 +2,10 @@
 description: A tutorial for making a minimalist dagger that can only stab.
 ---
 
-# Spear
+# Spear (in progress)
 
 {% hint style="info" %}
-This tutorial is in-progress. Some referenced techniques are meant to be described elsewhere in the docs as they are generalized techniques, and the intent is to also add photographs, gifs, and videos alongside the CAD screenshots.&#x20;
+This tutorial is in-progress. Some referenced techniques are meant to be described elsewhere in the docs as they are generalized techniques, and the intent is to also add photographs, gifs, and videos alongside the CAD screenshots.
 {% endhint %}
 
 _Note: This tutorial recommends using discs of foam to build up the pommel and can because it is a more-consistent method than wrapping foam around the core. It also allows you to choose if you want to make the profiles of these parts round, rectangular, or octagonal. It will be easier to make sure that the final result is centered on the core, as well, which takes extra effort when wrapping foam around the core._
@@ -14,9 +14,9 @@ _Note: This tutorial recommends using discs of foam to build up the pommel and c
 
 For something like a 5' hoplite spear you could get away with using solid 1/2"[ Fiberglass Rods](https://docs.foamdom.com/materials/cores#fiberglass-rods) or .602 [Kitespar](https://docs.foamdom.com/materials/cores#fiberglass-tubes), but above that length, you'll want to reach for roll-wrapped [Carbon](https://docs.foamdom.com/materials/cores#carbon) tubes. For lengths under 2 meters (\~78 3/4"), a carbon tube with a \~15mm OD and 2mm-2.5mm walls should be sufficient.
 
-<figure><img src="../../.gitbook/assets/placeholder.svg" alt=""><figcaption>A 78" length of 15mm*10.5mm Roll-Wrapped Carbon Fiber.</figcaption></figure>
+<figure><img src="../../.gitbook/assets/placeholder.svg" alt=""><figcaption><p>A 78" length of 15mm*10.5mm Roll-Wrapped Carbon Fiber.</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/placeholder.svg" alt=""><figcaption>CAPTION</figcaption></figure>
+<figure><img src="../../.gitbook/assets/placeholder.svg" alt=""><figcaption><p>CAPTION</p></figcaption></figure>
 
 ### 2. Cut a biscuit and apply it to the tip of your core.
 
@@ -41,7 +41,7 @@ For something like a 5' hoplite spear you could get away with using solid 1/2"[ 
 
 ### 4. Build the can.
 
-* Slide the first disc with the core-sized hole onto the core from the bottom.&#x20;
+* Slide the first disc with the core-sized hole onto the core from the bottom.
 * Apply adhesive between the biscuit, core, and disc.
 
 <figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
@@ -52,12 +52,12 @@ For something like a 5' hoplite spear you could get away with using solid 1/2"[ 
 
 * Cut a 1.75" diameter disc of a 4lb foam, like Puzzle Mat or 4# XLPE and insert that in the middle of the 2 lb disc you cut a 1.75" hole in.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 * Apply adhesive to the top of the biscuit and the 1st disc you put on the core, then place the disc where you applied the adhesive.
-  * This disc and the first disc will sandwich the biscuit and parts may not lay exactly flat, this is fine.&#x20;
+  * This disc and the first disc will sandwich the biscuit and parts may not lay exactly flat, this is fine.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Apply adhesive to the top of the previous disc and lay the last disc on top.
 * At this point, depending on the adhesive used, it may be a good idea to apply some tape up the sides of the can to hold the discs together while glue sets up.
@@ -103,14 +103,12 @@ _Note: Pommels are required to not be able to pass 1/2" through a 2" hole and fo
 
 <figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
-* Apply adhesive to the bottom disc and lay the final, solid, disc against it.&#x20;
-* It is at this point that you would want to do any carving to the pommel's foam to adjust its profile.&#x20;
-  * If you do intend to carve away part of the upper part of the pommel, it would be good to first tape the bottom cap to the rest of the pommel and let the adhesive set, if relevant. That tape can be removed for when you do the carving.&#x20;
+* Apply adhesive to the bottom disc and lay the final, solid, disc against it.
+* It is at this point that you would want to do any carving to the pommel's foam to adjust its profile.
+  * If you do intend to carve away part of the upper part of the pommel, it would be good to first tape the bottom cap to the rest of the pommel and let the adhesive set, if relevant. That tape can be removed for when you do the carving.
 * Similarly to how the biscuit and can were affixed to the core with strapping tape, affix the last disc to the pommel and secure the pommel to the core.
   * The adhesive will do a lot of the work on its own, but this will help make sure things stay in place while it sets and add strength after it does.
   * 2 11" pieces of strapping tape should be enough to center on the end of the pommel and wrap down the sides to the core.
-
-
 
 ### 7. Cut and apply the stab tip foam.
 
@@ -144,7 +142,7 @@ _Note: Pommels are required to not be able to pass 1/2" through a 2" hole and fo
 * Cut an octagon that is 3" wider than the diameter of your stab tip out of your choice of cloth.
 * Cut a strip of carpet tape down to 1/2" to 1" and wrap that around the can, just below the stab tip foam.
 * Place the cover flat on a table, then place the dagger upside down in the center of it.
-* On two opposing sides, tack the fabric against the ring of carpet tape.&#x20;
+* On two opposing sides, tack the fabric against the ring of carpet tape.
 * Do the same to the perpendicular sides.
 * This will have created pleats in the cover. Roll these pleats all in the same direction to lay the fabric against the can and then wrap it in cloth tape to secure the cover on the can.
 
