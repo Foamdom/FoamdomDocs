@@ -12,10 +12,10 @@ _Find what you need via the directory below or via the sidebar._
 
 ## Materials
 
-| [foam](materials/foam/ "mention")           | [cores](materials/cores/ "mention") |
-| ------------------------------------------- | ----------------------------------- |
-| [adhesives](materials/adhesives/ "mention") | [tape](materials/tape/ "mention")   |
-| [other](materials/other/ "mention")         |                                     |
+| [foam](materials/foam/ "mention")                | [cores](materials/cores/ "mention") |
+| ------------------------------------------------ | ----------------------------------- |
+| [adhesives.md](materials/adhesives.md "mention") | [tape](materials/tape/ "mention")   |
+| [other.md](materials/other.md "mention")         |                                     |
 
 ***
 
@@ -60,10 +60,10 @@ _Find what you need via the directory below or via the sidebar._
 
 ### Covers & Finishes
 
-| [foam](materials/foam/ "mention")           | [cores](materials/cores/ "mention") |
-| ------------------------------------------- | ----------------------------------- |
-| [adhesives](materials/adhesives/ "mention") | [tape](materials/tape/ "mention")   |
-| [other](materials/other/ "mention")         |                                     |
+| [foam](materials/foam/ "mention")                | [cores](materials/cores/ "mention") |
+| ------------------------------------------------ | ----------------------------------- |
+| [adhesives.md](materials/adhesives.md "mention") | [tape](materials/tape/ "mention")   |
+| [other.md](materials/other.md "mention")         |                                     |
 
 ***
 

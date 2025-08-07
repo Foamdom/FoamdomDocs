@@ -12,13 +12,13 @@ There are a myriad of adhesives that are effective and popular for foamsmithing 
 
 <table><thead><tr><th width="357">Adhesive/Method</th><th>Notes</th></tr></thead><tbody><tr><td>Heat Gun &#x26; Heat-Adhesion</td><td><ul><li>Process takes skill and patience.</li><li>Best foam to foam connection possible.</li><li>Uses electricity rather than actual adhesives.</li></ul></td></tr><tr><td>Double-Sided Carpet Tape*</td><td><ul><li>Easy to apply.</li><li>"Cures instantly".</li><li>Great for repairs, stab tips, guards/crosspieces, getting other tape to stick better, and for securing handle wraps.</li><li>You could build an entire weapon with this as the only 'adhesive'.</li><li>Depending on the use, it is not as long lasting as actual adhesives.</li><li>Should be used selectively.</li></ul></td></tr><tr><td>DAP Weldwood Contact Cement</td><td><ul><li>Easy to apply too little or too much.</li><li>Cures very slowly.</li><li>Strong adhesive, effective for all purposes.</li><li>Weakens connection of tape adhesive if it gets on the tape.</li><li>Prone to spilling and spoiling, easy to get debris in the pan.</li><li>Requires disposable brushes to apply well.</li><li>A reliable, but overall cumbersome and inefficient choice.</li></ul></td></tr><tr><td>Super 77 Spray Adhesive</td><td><ul><li>Easy to apply.</li><li>Sets and cures quickly.</li><li>Strong adhesive, effective for all purposes.</li><li>A light spray of this will help support tape adhere better to a surface.</li><li>Best all around adhesive for both effectiveness, ease of use, price, and availability.</li></ul></td></tr><tr><td>Gorilla Glue</td><td><ul><li>Can be messy to apply.</li><li>Cures slowly.</li><li>Generally only useful for foam to core.</li><li>Expands when curing.</li><li>Easy to use too much.</li><li>Adds a lot of weight.</li><li>Better options exist.</li></ul></td></tr><tr><td>Gorilla Heavy Duty Flooring Adhesive</td><td><ul><li>Easy to apply.</li><li>Comes in squeeze tubes and caulking tubes.</li><li>Very effective for foam to core, resists shearing forces well and doesn't delaminate as easily as DAP.</li></ul></td></tr><tr><td>Hot Glue</td><td><ul><li>Easy to apply.</li><li>Sets very quickly.</li><li>Excellent for foam to core, but only for crosspieces and pommels.</li></ul></td></tr><tr><td>2-Ton Epoxy</td><td><ul><li>Relatively easy to apply.</li><li>Sets and cures relatively quickly.</li><li>Hands down the most overkill option that still makes sense to use for foam to core, but only for crosspieces and pommels.</li></ul></td></tr></tbody></table>
 
-\*Covered more in-depth on [tape](../tape/ "mention") page.
+\*Covered more in-depth on [tape](tape/ "mention") page.
 
 ***
 
 ## Heat Guns
 
-<div align="left"><figure><img src="../../.gitbook/assets/Untitled-1 (4).jpg" alt="" width="169"><figcaption><p>A basic heat gun.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/Untitled-1 (4).jpg" alt="" width="169"><figcaption><p>A basic heat gun.</p></figcaption></figure></div>
 
 | Use Case     | Grade   |
 | ------------ | ------- |
@@ -35,7 +35,7 @@ There are many contact cements on the market, but you aren't liable to find one 
 
 ### DAP Weldwood
 
-<div align="left"><figure><img src="../../.gitbook/assets/Untitled (32).jpg" alt=""><figcaption><p>A small can of DAP<br>Weldwood Contact Cement.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/Untitled (32).jpg" alt=""><figcaption><p>A small can of DAP<br>Weldwood Contact Cement.</p></figcaption></figure></div>
 
 | Use Case     | Grade |
 | ------------ | ----- |
@@ -53,7 +53,7 @@ Strong adhesive, easy to both apply too little and too much, dries and cures slo
 
 ## Spray Adhesives
 
-<div align="left"><figure><img src="../../.gitbook/assets/shopping (2).webp" alt="" width="150"><figcaption><p>A can of spray adhesive.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/shopping (2).webp" alt="" width="150"><figcaption><p>A can of spray adhesive.</p></figcaption></figure></div>
 
 | Use Case     | Grade     |
 | ------------ | --------- |
@@ -66,17 +66,17 @@ There are a lot of spray adhesives out there. Loctite, Gorilla, and Scotch all h
 
 ### Super 77
 
-<div align="left"><figure><img src="../../.gitbook/assets/shopping (3).webp" alt="" width="150"><figcaption><p>A can of 3M Super 77.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/shopping (3).webp" alt="" width="150"><figcaption><p>A can of 3M Super 77.</p></figcaption></figure></div>
 
 Very tacky, with a set time that gives you ample opportunity to make sure that pieces are well positioned and in solid contact. Can expect surfaces to stick together well within 10-20 seconds of application and to cure within half an hour. Does not soak into materials as readily as DAP, leading to far less adhesive being needed to coat a surface. 3M markets Super 77 for bonding foil, foam, paper, metal, plastic, fabric, cardboard, and insulation.
 
 ### Hi-Strength 90
 
-<div align="left"><figure><img src="../../.gitbook/assets/shopping (4).webp" alt="" width="150"><figcaption><p>A can of 3M Hi-Strength 90.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/shopping (4).webp" alt="" width="150"><figcaption><p>A can of 3M Hi-Strength 90.</p></figcaption></figure></div>
 
 A stronger adhesive with a slightly wider range of applications than Super 77. This will hands down give a better bond than Super 77 and is recommended for instances where you see Super 77 not being sufficient. There is a difference in usage though: while it is already a best-practice to only use adhesives, especially spray adhesives, in a well ventilated environment, Hi-Strength 90 is one that releases harmful Volatile Organic Compounds (VOCs) when used and curing; these shouldn't be an issue and it should both stop off-gassing, and thus no longer having the strong smell, after a day or two. Because of these extra concerns, I would not recommend this as a general replacement for Super 77.
 
-{% file src="../../.gitbook/assets/US_3M_Spray-Adhesive-Selection-Guide_70-0717-0513-4_2016_EN.pdf" %}
+{% file src="../.gitbook/assets/US_3M_Spray-Adhesive-Selection-Guide_70-0717-0513-4_2016_EN.pdf" %}
 A chart produced by 3M for showing what their different spray adhesives are best suited for.
 {% endfile %}
 
@@ -88,7 +88,7 @@ A chart produced by 3M for showing what their different spray adhesives are best
 
 ## Hot Glue
 
-<div align="left"><figure><img src="../../.gitbook/assets/Untitled (33).jpg" alt="" width="169"><figcaption><p>A generic hot glue gun<br>with glue sticks.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/Untitled (33).jpg" alt="" width="169"><figcaption><p>A generic hot glue gun<br>with glue sticks.</p></figcaption></figure></div>
 
 | Use Case     | Grade     |
 | ------------ | --------- |
@@ -105,7 +105,7 @@ Only worthwhile for pommels and crosspieces. Effective for creating a strong con
 
 ## Gorilla Glue
 
-<div align="left"><figure><img src="../../.gitbook/assets/Untitled (34).jpg" alt="" width="169"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/Untitled (34).jpg" alt="" width="169"><figcaption></figcaption></figure></div>
 
 | Use Case     | Grade     |
 | ------------ | --------- |
@@ -123,7 +123,7 @@ Content
 
 ## Gorilla Construction Adhesives
 
-<div align="left"><figure><img src="../../.gitbook/assets/91zHZI31ShL._AC_UF350,350_QL80_ (2).jpg" alt="" width="175"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/91zHZI31ShL._AC_UF350,350_QL80_ (2).jpg" alt="" width="175"><figcaption></figcaption></figure></div>
 
 | Use Case     | Grade   |
 | ------------ | ------- |
@@ -140,7 +140,7 @@ Only worthwhile for attaching blades, crosspieces, and pommels to the core. Grea
 
 ## Generic 2-Ton Epoxies
 
-<div align="left"><figure><img src="../../.gitbook/assets/Untitled-1 (10).jpg" alt="" width="169"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/Untitled-1 (10).jpg" alt="" width="169"><figcaption></figcaption></figure></div>
 
 | Use Case     | Grade        |
 | ------------ | ------------ |

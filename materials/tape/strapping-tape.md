@@ -1,12 +1,12 @@
 # Strapping Tape
 
-<div align="left"><figure><img src="../../../.gitbook/assets/Untitled-1 (13).jpg" alt="" width="143"><figcaption><p>A roll of reinforced<br>strapping tape.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/Untitled-1 (13).jpg" alt="" width="143"><figcaption><p>A roll of reinforced<br>strapping tape.</p></figcaption></figure></div>
 
 Content
 
 ### Parallel Fiber Strapping Tape
 
-<div align="left"><figure><img src="../../../.gitbook/assets/Untitled (41).jpg" alt="" width="169"><figcaption><p>A roll of thin strapping tape<br>with parallel fibers.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/Untitled (41).jpg" alt="" width="169"><figcaption><p>A roll of thin strapping tape<br>with parallel fibers.</p></figcaption></figure></div>
 
 Content
 
@@ -19,7 +19,7 @@ Content
 
 ### Perpendicular Fiber Strapping Tape
 
-<div align="left"><figure><img src="../../../.gitbook/assets/Untitled-1 (14).jpg" alt="" width="169"><figcaption><p>A roll of wide strapping tape<br>with perpendicular fibers.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/Untitled-1 (14).jpg" alt="" width="169"><figcaption><p>A roll of wide strapping tape<br>with perpendicular fibers.</p></figcaption></figure></div>
 
 Content
 

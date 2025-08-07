@@ -1,10 +1,8 @@
-# Packing Tape
+# House Wrap Tape
 
-## Packing Tape
+##
 
-<div align="left"><figure><img src="../../../.gitbook/assets/Untitled (39).jpg" alt="" width="169"><figcaption><p>A roll of heavy duty<br>packing tape.</p></figcaption></figure></div>
-
-
+<div align="left"><figure><img src="../../.gitbook/assets/Untitled (40).jpg" alt=""><figcaption><p>A roll of Tyvec tape.</p></figcaption></figure></div>
 
 | Use Case | Grade |
 | -------- | ----- |
