@@ -14,11 +14,7 @@ Content
 
 ## Double-Sided Carpet Tape
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/Untitled-1 (11).jpg" alt="" width="169"><figcaption><p>A roll of generic<br>double-sided tape.</p></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/Untitled-1 (11).jpg" alt="" width="169"><figcaption><p>A roll of generic<br>double-sided tape.</p></figcaption></figure></div>
 
 Double-sided carpet tape is easy to apply and highly versatile, making it ideal for repairs, securing stab tips, guards, crosspieces, and enhancing the adhesion of other tapes. It’s also excellent for securing handle wraps and can even be used as the sole adhesive for assembling an entire project, such as a weapon. However, while it provides strong immediate adhesion, it may not be as durable or long-lasting as traditional adhesives, so it’s best used selectively depending on the application.
 
@@ -36,11 +32,7 @@ Content
 
 ### Duck Brand Indoor Outdoor Carpet Tape
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/Untitled (37).jpg" alt="" width="169"><figcaption><p>A roll of Duck Brand<br>carpet tape.</p></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/Untitled (37).jpg" alt="" width="169"><figcaption><p>A roll of Duck Brand<br>carpet tape.</p></figcaption></figure></div>
 
 By far the best version of carpet tape that I've come across for Foamsmithing purposes. It has many perpendicular fibers, which allows it to essentially double as perpendicular fiber strapping tape. The secondary bonus to these fibers is that it makes it much easier to cut and manipulate, as well as recover from errors. You can even cut this kind of carpet tape with scissors so you can make more precise shapes, if needed.&#x20;
 
@@ -52,11 +44,7 @@ By far the best version of carpet tape that I've come across for Foamsmithing pu
 
 ## Duct Tape
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/Untitled (38).jpg" alt="" width="169"><figcaption><p>A generic roll of Duct Tape.</p></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/Untitled (38).jpg" alt="" width="169"><figcaption><p>A generic roll of Duct Tape.</p></figcaption></figure></div>
 
 | Use Case | Grade |
 | -------- | ----- |
@@ -66,11 +54,7 @@ Content
 
 ### Gorilla Tape
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/Untitled-1 (12).jpg" alt="" width="146"><figcaption><p>A roll of Gorilla Tape.</p></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/Untitled-1 (12).jpg" alt="" width="146"><figcaption><p>A roll of Gorilla Tape.</p></figcaption></figure></div>
 
 Content
 
@@ -82,11 +66,7 @@ Content
 
 ## Packing Tape
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/Untitled (39).jpg" alt="" width="169"><figcaption><p>A roll of heavy duty<br>packing tape.</p></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/Untitled (39).jpg" alt="" width="169"><figcaption><p>A roll of heavy duty<br>packing tape.</p></figcaption></figure></div>
 
 
 
@@ -104,11 +84,7 @@ Content
 
 ## Tyvec House Wrap Tape
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/Untitled (40).jpg" alt=""><figcaption><p>A roll of Tyvec tape.</p></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/Untitled (40).jpg" alt=""><figcaption><p>A roll of Tyvec tape.</p></figcaption></figure></div>
 
 | Use Case | Grade |
 | -------- | ----- |
@@ -124,37 +100,35 @@ Content
 
 ## Strapping tape
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/Untitled-1 (13).jpg" alt="" width="143"><figcaption><p>A roll of reinforced<br>strapping tape.</p></figcaption></figure>
-
-</div>
-
-| Use Case | Grade |
-| -------- | ----- |
-|          |       |
+<div align="left"><figure><img src="../.gitbook/assets/Untitled-1 (13).jpg" alt="" width="143"><figcaption><p>A roll of reinforced<br>strapping tape.</p></figcaption></figure></div>
 
 Content
 
 ### Parallel Fiber Strapping Tape
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/Untitled (41).jpg" alt="" width="169"><figcaption><p>A roll of thin strapping tape<br>with parallel fibers.</p></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/Untitled (41).jpg" alt="" width="169"><figcaption><p>A roll of thin strapping tape<br>with parallel fibers.</p></figcaption></figure></div>
 
 Content
+
+| Use Case               | Grade     |
+| ---------------------- | --------- |
+| Stab Tip reinforcement | Amazing   |
+| Guard reinforcement    | Amazing   |
+| Pommel reinforcement   | Amazing   |
+| Duct Tape replacement  | Excellent |
 
 ### Perpendicular Fiber Strapping Tape
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/Untitled-1 (14).jpg" alt="" width="169"><figcaption><p>A roll of wide strapping tape<br>with perpendicular fibers.</p></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/Untitled-1 (14).jpg" alt="" width="169"><figcaption><p>A roll of wide strapping tape<br>with perpendicular fibers.</p></figcaption></figure></div>
 
 Content
+
+| Use Case               | Grade   |
+| ---------------------- | ------- |
+| Duct Tape replacement  | Amazing |
+| Stab Tip reinforcement | Good    |
+| Guard reinforcement    | Good    |
+| Pommel reinforcement   | Good    |
 
 ### Sources
 
@@ -164,31 +138,29 @@ Content
 
 ## Fabric Tape
 
-<div align="left">
+<div align="left"><figure><img src="../.gitbook/assets/images (1).jpg" alt="" width="184"><figcaption><p>Rolls of generic fabric tape.</p></figcaption></figure></div>
 
-<figure><img src="../.gitbook/assets/images (1).jpg" alt="" width="184"><figcaption><p>Rolls of generic fabric tape.</p></figcaption></figure>
+| Use Case              | Grade     |
+| --------------------- | --------- |
+| Skinning Foam         | Excellent |
+| Securing Covers       | Excellent |
+| Bridging Foam Seams   | Great     |
+| Reinforcing Stab Tips | Good\*    |
+| Handle Wrap           | Good      |
 
-</div>
-
-| Use Case | Grade |
-| -------- | ----- |
-|          |       |
-
-Content
+Fabric tapes come in many forms, from medical to athletic tape. It is important for our needs that the tape be relatively soft, strong, and have good adhesion. The less stretch the tape has, the better. Most medical and athletic tapes either don't stick well, or have more stretch than would be desired. There are fiberglass reinforced cloth tapes, like Leukotape-P, that are essentially cloth-backed strapping tape, but unfortunately it proved to not stay adhered when laid down in tension.
 
 ### Hockey Tape
 
-<div align="left">
+<div align="left"><figure><img src="../.gitbook/assets/Untitled (42).jpg" alt="" width="218"><figcaption><p>Assorted colors of hockey tape.</p></figcaption></figure></div>
 
-<figure><img src="../.gitbook/assets/Untitled (42).jpg" alt="" width="218"><figcaption><p>Assorted colors of hockey tape.</p></figcaption></figure>
-
-</div>
-
-Content
+By far the best option that has been found so far is cloth hockey tape. Each brand is slightly different, but Howie's has proven to be hands down the best that is easily accessible for regular consumers to purchase. Renfrew and other brands are still viable, especially if you aren't taping a space that needs the extra softness that Howie's provides.
 
 ### Sources
 
-<table><thead><tr><th width="170">Tape</th><th width="191">Source</th><th>Link</th></tr></thead><tbody><tr><td></td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="127.8333740234375">Tape</th><th width="100.24993896484375">Source</th><th>Link</th></tr></thead><tbody><tr><td>Howie's Hockey Tape</td><td>Howie's</td><td><a href="https://howieshockeytape.com/">https://howieshockeytape.com/</a></td></tr><tr><td>Howie's Hockey Tape</td><td>Dick's Sporting Goods</td><td><a href="https://www.dickssportinggoods.com/search/SearchDisplay?searchTerm=howies%20hockey%20tape">https://www.dickssportinggoods.com/search/SearchDisplay?searchTerm=howies%20hockey%20tape</a></td></tr><tr><td>Howie's Hockey Tape</td><td>Amazon</td><td><a href="https://www.amazon.com/s?k=howies+hockey+tape">https://www.amazon.com/s?k=howies+hockey+tape</a></td></tr></tbody></table>
+
+
 
 ***
 
