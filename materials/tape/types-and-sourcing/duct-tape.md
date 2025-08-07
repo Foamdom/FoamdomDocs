@@ -1,6 +1,6 @@
 # Duct Tape
 
-<div align="left"><figure><img src="../../.gitbook/assets/Untitled (38).jpg" alt="" width="169"><figcaption><p>A generic roll of Duct Tape.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/Untitled (38).jpg" alt="" width="169"><figcaption><p>A generic roll of Duct Tape.</p></figcaption></figure></div>
 
 | Use Case                         | Grade |
 | -------------------------------- | ----- |
@@ -14,13 +14,13 @@ While Duct Tape is a good all-rounder and can serve many purposes outside of wha
 
 ### Gorilla Tape
 
-<div align="left"><figure><img src="../../.gitbook/assets/Untitled-1 (12).jpg" alt="" width="146"><figcaption><p>A roll of Gorilla Tape.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/Untitled-1 (12).jpg" alt="" width="146"><figcaption><p>A roll of Gorilla Tape.</p></figcaption></figure></div>
 
 For the price, Gorilla Tape is currently the best on the market for applications where Duct Tape is superior to other tapes. It has a tendency to pull away from the surface in some places if placed down in tension, but will eventually stick and stay if you keep tamping it down as you notice it. The bond provided is quite strong once it sets, and the tape itself tends to have a clean look while also being extremely durable as an outer skin. If you can't source Gorilla Tape, get the closest thing you can find to it. Gorilla also offers an "All-Weather" tape that is more resilient to being out in the elements, like our gear often is.
 
 ### Duck Brand Max Strength Duct Tape
 
-<div align="left"><figure><img src="../../.gitbook/assets/image.png" alt="Duck Brand Duct Tape" width="188"><figcaption><p>Duck Tape MAX Black</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image.png" alt="Duck Brand Duct Tape" width="188"><figcaption><p>Duck Tape MAX Black</p></figcaption></figure></div>
 
 Not as thick, nor as durable, as Gorilla's base offering, but is still a reliable tape for the recommended uses. Does not hold fabric in place as well as Gorilla tape, but it being thinner does lend to it being much easier to get good results when skinning irregular surfaces. They also sell an "Extreme Weather" variant that is more resilient and provides a better, more resilient, bond.
 

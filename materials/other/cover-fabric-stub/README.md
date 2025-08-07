@@ -1,0 +1,2 @@
+# Cover Fabric (Stub)
+

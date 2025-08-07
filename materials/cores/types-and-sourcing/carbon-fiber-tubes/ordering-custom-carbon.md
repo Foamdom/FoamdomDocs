@@ -2,11 +2,11 @@
 description: Information regarding sourcing custom-made carbon fiber cores.
 ---
 
-# Custom Carbon Fiber Cores
+# Ordering Custom Carbon
 
 Over the winter of 2024-2025, I vetted a supplier via Alibaba for carbon fiber tubes. The supplier has so far been delivering a very consistent product and in a pretty timely manner after orders are placed. They are also super easy to work with. You can order from them directly or order through me.
 
-<figure><img src="../../../.gitbook/assets/bafkreia46t6q7qrn556cwwgcaiwgclbtfy7ezal4bwhyohhx5smtixslhe.webp" alt=""><figcaption><p>A bundle of 16mm*12mm*2000mm Carbon Fiber Tubes.</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/bafkreia46t6q7qrn556cwwgcaiwgclbtfy7ezal4bwhyohhx5smtixslhe.webp" alt=""><figcaption><p>A bundle of 16mm*12mm*2000mm Carbon Fiber Tubes.</p></figcaption></figure>
 
 {% hint style="info" %}
 NOTE: I can't make any guarantees about the product, but it's been performing well so far and it's hard to argue with the price.

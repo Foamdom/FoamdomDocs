@@ -1,6 +1,6 @@
 # Cloth/Fabric Tape
 
-<div align="left"><figure><img src="../../.gitbook/assets/images (1).jpg" alt="" width="184"><figcaption><p>Rolls of generic fabric tape.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/images (1).jpg" alt="" width="184"><figcaption><p>Rolls of generic fabric tape.</p></figcaption></figure></div>
 
 | Use Case              | Grade     |
 | --------------------- | --------- |
@@ -14,7 +14,7 @@ Fabric tapes come in many forms, from medical to athletic tape. It is important 
 
 ### Hockey Tape
 
-<div align="left"><figure><img src="../../.gitbook/assets/Untitled (42).jpg" alt="" width="218"><figcaption><p>Assorted colors of hockey tape.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/Untitled (42).jpg" alt="" width="218"><figcaption><p>Assorted colors of hockey tape.</p></figcaption></figure></div>
 
 By far the best option that has been found so far is cloth hockey tape. Each brand is slightly different, but Howie's has proven to be hands down the best that is easily accessible for regular consumers to purchase. Renfrew and other brands are still viable, especially if you aren't taping a space that needs the extra softness that Howie's provides.
 
