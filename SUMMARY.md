@@ -31,7 +31,13 @@
   * [Types & Sourcing (stub)](materials/cores/types-and-sourcing-stub/README.md)
     * [Custom Carbon Fiber Cores](materials/cores/types-and-sourcing-stub/custom-carbon-fiber-cores.md)
 * [Adhesives](materials/adhesives.md)
-* [Tape](materials/tape.md)
+* [Tape](materials/tape/README.md)
+  * [Double-Sided Tape](materials/tape/double-sided-tape.md)
+  * [Duct Tape](materials/tape/duct-tape.md)
+  * [Packing Tape](materials/tape/packing-tape.md)
+  * [House Wrap Tape](materials/tape/house-wrap-tape.md)
+  * [Strapping Tape](materials/tape/strapping-tape.md)
+  * [Cloth/Fabric Tape](materials/tape/cloth-fabric-tape.md)
 * [Other](materials/other.md)
 
 ## Tools
