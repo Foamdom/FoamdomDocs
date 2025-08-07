@@ -52,12 +52,12 @@ For something like a 5' hoplite spear you could get away with using solid 1/2"[ 
 
 * Cut a 1.75" diameter disc of a 4lb foam, like Puzzle Mat or 4# XLPE and insert that in the middle of the 2 lb disc you cut a 1.75" hole in.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Apply adhesive to the top of the biscuit and the 1st disc you put on the core, then place the disc where you applied the adhesive.
   * This disc and the first disc will sandwich the biscuit and parts may not lay exactly flat, this is fine.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Apply adhesive to the top of the previous disc and lay the last disc on top.
 * At this point, depending on the adhesive used, it may be a good idea to apply some tape up the sides of the can to hold the discs together while glue sets up.
