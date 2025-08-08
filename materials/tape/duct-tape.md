@@ -20,7 +20,7 @@ For the price, Gorilla Tape is currently the best on the market for applications
 
 ### Duck Brand Max Strength Duct Tape
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (1).png" alt="Duck Brand Duct Tape" width="188"><figcaption><p>Duck Tape MAX Black</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (1) (1).png" alt="Duck Brand Duct Tape" width="188"><figcaption><p>Duck Tape MAX Black</p></figcaption></figure></div>
 
 Not as thick, nor as durable, as Gorilla's base offering, but is still a reliable tape for the recommended uses. Does not hold fabric in place as well as Gorilla tape, but it being thinner does lend to it being much easier to get good results when skinning irregular surfaces. They also sell an "Extreme Weather" variant that is more resilient and provides a better, more resilient, bond.
 

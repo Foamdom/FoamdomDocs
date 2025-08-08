@@ -6,7 +6,7 @@ description: >-
 
 # EPDM (Ethylene Propylene Diene Monomer)
 
-<div align="left" data-full-width="false"><figure><img src="../../../../../.gitbook/assets/image (1) (1).png" alt="EPDM Kneeling Mat" width="188"><figcaption><p>EPDM Kneeling Mat</p></figcaption></figure></div>
+<div align="left" data-full-width="false"><figure><img src="../../../../../.gitbook/assets/image (1) (1) (1).png" alt="EPDM Kneeling Mat" width="188"><figcaption><p>EPDM Kneeling Mat</p></figcaption></figure></div>
 
 | Use Case  | Grade   |
 | --------- | ------- |
