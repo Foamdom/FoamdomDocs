@@ -26,7 +26,7 @@ Below is a table of bolt diameter, length, and approximate weight. Different gra
 |      3/8"     |     1 oz     |     2 oz     |     3 oz     |
 |      1/2"     |    1.7 oz    |    3.1 oz    |    4.5 oz    |
 
-The longer the bolt is, the further up the length of the weapon the weight is being distributed and the further forward the balance point will be. While a bolt allows you to put the weight inside the core and thus not increase the volume of the pommel, it can be more effective to use a short bolt and add washers to compensate if you are needing more aggressive back-weighting.&#x20;
+The longer the bolt is, the further up the length of the weapon the weight is being distributed and the further forward the balance point will be. While a bolt allows you to put the weight inside the core and thus not increase the volume of the pommel, it can be more effective to use a short bolt and add washers to compensate if you are needing more aggressive back-weighting. The end of the bolt will also create a stress point in the core. The further from the pommel this is, the more force that will be exerted against it during impacts, and the more likely it is to lead to a break; this is why I don't recommend bolts longer than 6".
 
 #### Washers
 
