@@ -1,4 +1,4 @@
-# Weighting Options (Stub)
+# Weighting Options
 
 ## Steel Bolts & Washers
 
@@ -72,7 +72,7 @@ Lead tape is best applied just above the pommel at the base of the handle, or em
 
 <div align="left"><figure><img src="../../.gitbook/assets/Untitled (45).jpg" alt="" width="169"><figcaption></figcaption></figure></div>
 
-Steel wire is effectively similar to [#lead-tungsten-tape](weighting-options-stub.md#lead-tungsten-tape "mention"), but is much more labor intensive to install and does not come with an adhesive backing. While non-toxic, it does introduce hazards: sharp pointy bits at each end of each segment of wire you use, the creation of a hard metal shell wherever you put the wrap, and rust, as you won't usually find this with any kind of rust protection on it. Is more dense per volume than lead tape, while also being able to be extremely precise in how much weight is added. \
+Steel wire is effectively similar to [#lead-tungsten-tape](weighting-options.md#lead-tungsten-tape "mention"), but is much more labor intensive to install and does not come with an adhesive backing. While non-toxic, it does introduce hazards: sharp pointy bits at each end of each segment of wire you use, the creation of a hard metal shell wherever you put the wrap, and rust, as you won't usually find this with any kind of rust protection on it. Is more dense per volume than lead tape, while also being able to be extremely precise in how much weight is added. \
 \
 Unless you are in a pinch, though, I can't recommend this as a viable primary option. The prospect of rust during repairs, the annoyance of installation and protecting the user from the sharp ends of the wire, and the hard shell it creates make for a less-than ideal situation. It is much better to just get as close as you can with bolts and washers and then cover that last bit with wraps of hockey tape around/just above the pommel.
 
@@ -82,13 +82,19 @@ Unless you are in a pinch, though, I can't recommend this as a viable primary op
 
 ***
 
-## Tire Balancing Weights
+## Wheel Weights
 
-Content
+<div align="left"><figure><img src="../../.gitbook/assets/image.png" alt="" width="188"><figcaption></figcaption></figure></div>
+
+Wheel Weights are commonly used to balance wheels so that spin with less eccentricity and come in ¼ oz, 1/2oz, and 1 oz variants. They usually have an adhesive backing intended to stick to and hold to the rim of a wheel on a car and be exposed to all of the stresses that those wheels/tires are. Some are also coated so that they resist rust, etc.\
+\
+While they can be an effective way to add weight to boffer weapons, they are not as cost effective nor as volume efficient as bolts and washers and require additional effort and processes to keep them secured in place and to build around them.\
+\
+As an addition to bolts and washers, where these square/rectangular strips of metal would be being being slotted into hollows of the handle, or be being used as part of the handle shape, they are quite helpful. There are also thin variants of some brands that allow for more flexibility in this space. However, at that point, if you have the capacity to cut steel you can get a better result and save a decent chunk of change by just buying steel flat bar and cutting that to the desired length.&#x20;
 
 ### Sources
 
-<table><thead><tr><th width="170">Material</th><th width="191">Source</th><th>Link</th></tr></thead><tbody><tr><td></td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="170">Material</th><th width="191">Source</th><th>Link</th></tr></thead><tbody><tr><td>¼ oz Wheel Weights (240pcs)</td><td>Amazon</td><td><a href="https://www.amazon.com/CK-Auto-Adhesive-EasyPeel-Motorcycles/dp/B06XDG1JJH?crid=19Y88N9OURN4M&#x26;dib=eyJ2IjoiMSJ9.KOOC0mK4pRSBEtB5kGSr0WJv_cf6ky3oHN8jz4uiDv5VP6lCfJn5QwDZWM28dp5BQbu4lVvq08uy-De5Zxr171FSwrMISdlasugEdCnLNO3b09mGwjlUtiEpd9nQZ3fDZsLAmwLLP7F1SwxwG6AvkBNWas6zP2C7uGfW_XtALXgHH_RzRlBmJnGC-2tGyWo2Sdyvh8aZrCMalCFuKinsoOc7DjjC4F8JUckboO9bnMVC6pxVKqu4k9pbeBtUhKlyFCi0Jp_eWCe4QMVT9Pq1mYzO1vNrJ9yWqSag1RKSKlc.D5sKgzwQEu32xu09z-G-P6P8IeNNbNeLE1o2Iv9Flx0&#x26;dib_tag=se&#x26;keywords=ckauto%2B1%2F4%2Boz%2Bwheel%2Bweights%2Bblack&#x26;qid=1754689340&#x26;s=automotive&#x26;sprefix=ckauto%2B1%2F4%2Boz%2Bwheel%2Bweights%2Bbla%2Cautomotive%2C112&#x26;sr=1-3&#x26;th=1">https://www.amazon.com/CK-Auto-Adhesive-EasyPeel-Motorcycles/dp/B06XDG1JJH</a></td></tr><tr><td>½ oz Wheel Weights (126pcs)</td><td>Amazon</td><td><a href="https://www.amazon.com/CK-Auto-Adhesive-Weights-Chrysler/dp/B071WNNQWL?crid=35WSMZAETMK0Z&#x26;dib=eyJ2IjoiMSJ9.h4r1fQBxKDAc6d54ZPpLaG08nB-oEJVwYVy8LbrkLDqD0p962V18X5i5jCWoTJWmOyRtKS_X3R7wp7zT-CQ4ArVmN3ym0aERmG1NSTTEcgyru5kA-QnpruAA4E3NJMEjR3OT_9-Wf5yMVR2nE6pnAX9km0b8ZFsaUZeiwrZ6c3N-wM43_Q5zB92PsQYF6y8acirjoUqSX9yxmaMXksAADM-6VYlOsQTlOcbk2QbMp38.BwcaPUPqtdHXXVKMtg0mCOQ3VmyQ2xevsvpoIoFFrzw&#x26;dib_tag=se&#x26;keywords=wheel%2Bweights%2Bstick%2Bon%2B1oz&#x26;qid=1754688698&#x26;sprefix=wheel%2Bwei%2Caps%2C137&#x26;sr=8-13&#x26;th=1">https://www.amazon.com/CK-Auto-Adhesive-Weights-Chrysler/dp/B071WNNQWL</a></td></tr><tr><td>1 oz Wheel Weights (72pcs)</td><td>Amazon</td><td><a href="https://www.amazon.com/dp/B071WP8HGP">https://www.amazon.com/dp/B071WP8HGP</a></td></tr><tr><td>Low Profile ½ oz Wheel Weights (120pcs)</td><td>Amazon</td><td><a href="https://www.amazon.com/CK-Auto-Profile-Adhesive-Weights/dp/B07K2R8K2W?crid=1YS6XI5IF5F5Q&#x26;dib=eyJ2IjoiMSJ9.2qtfZ1ovowUWtRNEKj7N6C7Oqw1hiYwBdGG-Q23NDMEIDYwJFTi6TGVMaMO65cdKM01xQsmSO-e4yzJR-8G53hatsaCs6SgDK9OehcZ72gUMoQaSmfLlWQEalDpzMtqGRFsMR7twKaf-PkyGZXD4fSQP6EZoK9mcBgl_K5MiFal9QErboaMQYOM5dTzJWJbGkjMD16Pev6WKWZdqO8Rd1cC-OP2_x20xmH_T4uX2d1y_1aAVOVyRjJDzVxxfDsLiAS9fbXWfxsVBq67nDHGCFi7PEGtvOuyKCjeqbZPJadE.W5ZGxXyPCkArk10mRi7G8TPs7y6Nqen08kOChsXWYBw&#x26;dib_tag=se&#x26;keywords=ckauto%2Bthin%2Bwheel%2Bweights%2Bblack&#x26;qid=1754689390&#x26;s=automotive&#x26;sprefix=ckauto%2Bthin%2Bwheel%2Bweights%2Bblack%2Cautomotive%2C149&#x26;sr=1-4&#x26;th=1">https://www.amazon.com/CK-Auto-Profile-Adhesive-Weights/dp/B07K2R8K2W</a></td></tr></tbody></table>
 
 ***
 

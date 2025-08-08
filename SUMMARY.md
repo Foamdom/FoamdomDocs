@@ -59,7 +59,7 @@
     * [Thread (Stub)](materials/other/cover-fabric-stub/thread-stub.md)
   * [Plasti Dip](materials/other/plasti-dip.md)
   * [Corrugated Plastic](materials/other/corrugated-plastic.md)
-  * [Weighting Options (Stub)](materials/other/weighting-options-stub.md)
+  * [Weighting Options](materials/other/weighting-options.md)
   * [PVC Pipe](materials/other/pvc-pipe.md)
 
 ## Tools
