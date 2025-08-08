@@ -135,4 +135,4 @@
 
 * [Bags (stub)](weapon-storage/bags.md)
 * [Gun Cases (stub)](weapon-storage/gun-cases.md)
-* [PVC Tubes (stub)](weapon-storage/pvc-tubes.md)
+* [3"+ PVC Pipe](weapon-storage/pvc-tubes.md)
