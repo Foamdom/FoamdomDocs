@@ -58,7 +58,7 @@
     * [Fabric Paints/Coloring (Stub)](materials/other/cover-fabric-stub/fabric-paints-coloring-stub.md)
     * [Thread (Stub)](materials/other/cover-fabric-stub/thread-stub.md)
   * [Plasti Dip](materials/other/plasti-dip.md)
-  * [Corrugated Plastic (Stub)](materials/other/corrugated-plastic-stub.md)
+  * [Corrugated Plastic](materials/other/corrugated-plastic.md)
   * [Weighting Options (Stub)](materials/other/weighting-options-stub.md)
   * [PVC Pipe](materials/other/pvc-pipe.md)
 
