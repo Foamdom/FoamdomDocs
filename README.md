@@ -31,9 +31,9 @@ _Find what you need via the directory below or via the sidebar._
 
 ### General
 
-| [marking-materials.md](build-techniques/general/marking-materials.md "mention")   | [cutting-and-shaping-materials.md](build-techniques/general/cutting-and-shaping-materials.md "mention") |
-| --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| [adhering-materials.md](build-techniques/general/adhering-materials.md "mention") | [applying-tape-wraps.md](build-techniques/general/applying-tape-wraps.md "mention")                     |
+| [marking-materials.md](build-techniques/general/marking-materials.md "mention") | [cutting-and-shaping-materials.md](build-techniques/general/cutting-and-shaping-materials.md "mention") |
+| ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| [adhering-materials](build-techniques/general/adhering-materials/ "mention")    | [applying-tape-wraps.md](build-techniques/general/applying-tape-wraps.md "mention")                     |
 
 ### Striking Regions
 
