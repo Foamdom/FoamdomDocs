@@ -27,7 +27,7 @@
       * [Page 1](materials/foam/types-and-sourcing/open-cell-foams/page-1.md)
     * [Vendor Tubes](materials/foam/types-and-sourcing/vendor-tubes.md)
 * [Cores](materials/cores/README.md)
-  * [Usage Recommendations (stub)](materials/cores/usage-recommendations-stub.md)
+  * [Usage Recommendations](materials/cores/usage-recommendations.md)
   * [Types & Sourcing](materials/cores/types-and-sourcing-stub/README.md)
     * [Solid Fiberglass Rods](materials/cores/types-and-sourcing/solid-fiberglass-rods.md)
     * [Fiberglass Tubes](materials/cores/types-and-sourcing/fiberglass-tubes.md)
