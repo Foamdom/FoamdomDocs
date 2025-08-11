@@ -27,7 +27,7 @@ The supplier: [dzhuikai.en.alibaba.com](https://dzhuikai.en.alibaba.com/)
 
 If you want to save money ordering them directly from the supplier and don't _need_ longer tubes, you can order them at shorter lengths (<= 1.2 meters) and not have the $45 over-length fee. This can make a big difference. It'd be cheaper to order two 3.9ft tubes than one 8.2ft tube, for example.
 
-Tubes cost about their OD in dollars at 2000mm and $4 more at 2500mm (Ex: 16mm\*12mm, $16 @ 2000mm, $20 @ 2500mm). They may quote you differently, but I don't expect them to.\
+Tubes with 2mm walls (the most common thickness I order) cost about their OD in dollars at 2000mm and $4 more at 2500mm (Ex: 16mm\*12mm, $16 @ 2000mm, $20 @ 2500mm). They may quote you differently, but I don't expect them to.\
 \
 Then you add freight/shipping, which can range from $50-$290 for a single shipment, depending on size and the current market. I have had larger orders have to come in multiple shipments. Alibaba's policy is that the buyer must arrange freight, but many sellers offer this as part of the purchase and this supplier is one of them. I have never had an issue with my orders arriving late or damaged.
 
