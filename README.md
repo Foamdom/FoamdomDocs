@@ -5,7 +5,7 @@ description: Landing page and triage.
 # Whackipedia
 
 {% hint style="info" %}
-This wiki is currently a work in progress. Your feedback and suggestions are welcome and are what drive the addition of new content. You can submit feedback, suggestions, and request additions by emailing wiki@whackerdashery.com or by reaching out to me via Discord (captainpunch374).
+This wiki is a constant work in progress, a living document, if you will. Your feedback and suggestions are welcome and are what drive the addition of new content. You can submit feedback, suggestions, and request additions by emailing wiki@whackerdashery.com or by reaching out to me via Discord (captainpunch374).
 
 \
 If you'd like to help share the load, please consider donating. These funds allow me to allocate more time towards write ups and material/design experiments, while also making it easier to purchase materials for those experiments and helping to cover hosting/domain costs.\
