@@ -4,6 +4,7 @@
 
 ## External Links
 
+* [The Whackerdashery](https://www.whackerdashery.com)
 * [Belegarth Official Site](https://www.geddon.org/)
 * [Belegarth Official Wiki](https://geddon.org/Belegarth)
 * [Belegarth Official Discord](https://discord.gg/yvRPhVt7x5)
