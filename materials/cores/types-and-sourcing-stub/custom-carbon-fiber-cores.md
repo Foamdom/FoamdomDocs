@@ -43,5 +43,7 @@ Go to the [supplier's page](https://dzhuikai.en.alibaba.com/) on Alibaba, then c
 
 #### From Me
 
-You can also order from me, which can be less expensive for small orders. I factor in shipping and costs per tube to set my prices. You can reach me for carbon orders via the Discord links in the sidebar, or by emailing inquiries.carbon@whackerdashery.com.
+You can also order from me, which can be less expensive for small orders. I factor in shipping and costs per tube to set my prices. You can reach me for carbon orders via the Discord links in the sidebar, or by emailing inquiries.carbon@whackerdashery.com.\
+\
+Recommendations and pricing, as well as shipping information, can be found here on my business site: [https://www.whackerdashery.com/materials/carbon-fiber-tubes](https://www.whackerdashery.com/materials/carbon-fiber-tubes)
 
