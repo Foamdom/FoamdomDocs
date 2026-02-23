@@ -57,5 +57,5 @@ Personally, I make my own Volara reblades by heatbonding 3/8" thick, 3" wide, st
 
 Section in progress.
 
-## &#x20;
+## <br>
 

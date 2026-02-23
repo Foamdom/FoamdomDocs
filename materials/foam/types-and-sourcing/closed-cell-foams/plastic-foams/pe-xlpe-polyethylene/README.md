@@ -8,13 +8,15 @@ description: >-
 
 Polyethylene is a type of Polyolefin. PE/XLPE refers to Polyethylene (PE) and Cross-linked Polyethylene (XLPE), two types of plastic materials often used in electrical cables and other applications. PE is a thermoplastic, while XLPE is a thermosetting polymer, achieved by cross-linking the polyethylene molecules.&#x20;
 
-PE will typically have larger cells that are easy to see with the naked eye and will have a rougher texture on both cut and skinned faces. It is generally softer, more pliable, and less durable than XLPE of the same density, but these are not always the case depending on the type of XLPE. The cross-linking process significantly enhances XLPE's properties, particularly its resistance to heat, mechanical stress, and environmental factors. The resulting cells are usually so small that even cut surfaces can appear smooth.
+PE will typically have larger cells that are easy to see with the naked eye and will have a rougher texture on both cut and skinned faces. It is generally softer, more pliable, and less durable than XLPE of the same density, but these are not always the case depending on the type of XLPE. The cross-linking process significantly enhances XLPE's properties, particularly its resistance to heat, mechanical stress, and environmental factors. The resulting cells are usually so small that even cut surfaces can appear smooth.\
+\
+This page has information on easily sourced versions of PE/XLPE. For information on Plastazote foams or VolaraBLOCK, see their respective subpages.&#x20;
 
 ***
 
 ## 2.2# PE&#x20;
 
-<div align="left"><figure><img src="../../../../../.gitbook/assets/Untitled (20).jpg" alt=""><figcaption><p>Standard 2.2# Polyethylene Foam</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../../../.gitbook/assets/Untitled (20).jpg" alt=""><figcaption><p>Standard 2.2# Polyethylene Foam</p></figcaption></figure></div>
 
 | Use Case                | Grade      |
 | ----------------------- | ---------- |
@@ -35,7 +37,7 @@ Good foam, but not great for all around use. Primarily useful for shields, but s
 
 ## 2# XLPE
 
-<div align="left"><figure><img src="../../../../../.gitbook/assets/Untitled (22).jpg" alt=""><figcaption><p>Cross Linked 2lb Polyethylene</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../../../.gitbook/assets/Untitled (22).jpg" alt=""><figcaption><p>Cross Linked 2lb Polyethylene</p></figcaption></figure></div>
 
 A higher quality, more durable, and all-around-upgrade to "standard" Closed-Cell Polyethelene Sheets and Camp Pads. It has better impact damping than the non-cross-linked forms and holds its shape better while compressing, leading to less twisting. It also resists shearing and tearing better than non-cross-linked polyethelene, which helps it last much longer before wearing out. It is my go-to for haft padding, and has some of the best compression recovery of any foam listed on this wiki; I have had multiple weapons with failing divots on their hafts from getting pinched in transport "heal" themselves when left alone for a week. &#x20;
 
@@ -45,7 +47,7 @@ The only downside is that it is firmer, which means that it is not great for str
 
 ## Volara 2A (2#)
 
-<div align="left"><figure><img src="../../../../../.gitbook/assets/Untitled (26).jpg" alt=""><figcaption><p>Volara 2A (Polyethylene)</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../../../.gitbook/assets/Untitled (26).jpg" alt=""><figcaption><p>Volara 2A (Polyethylene)</p></figcaption></figure></div>
 
 | Use Case                | Grade   |
 | ----------------------- | ------- |
@@ -66,7 +68,7 @@ It would be somewhat wasteful to use this foam for anything but the striking sur
 
 ## Minicel L200 (2#)&#x20;
 
-<div align="left"><figure><img src="../../../../../.gitbook/assets/Untitled (23).jpg" alt=""><figcaption><p>Minicel L200</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../../../.gitbook/assets/Untitled (23).jpg" alt=""><figcaption><p>Minicel L200</p></figcaption></figure></div>
 
 | Use Case         | Grade   |
 | ---------------- | ------- |
@@ -82,7 +84,7 @@ A much more fine-celled foam that is both softer and has higher durability than 
 
 ## 4# XLPE
 
-<div align="left"><figure><img src="../../../../../.gitbook/assets/Untitled (25).jpg" alt=""><figcaption><p>4lb Closed-Cell Cross Linked Polyethylene</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../../../.gitbook/assets/Untitled (25).jpg" alt=""><figcaption><p>4lb Closed-Cell Cross Linked Polyethylene</p></figcaption></figure></div>
 
 | Use Case                | Grade   |
 | ----------------------- | ------- |
@@ -100,7 +102,7 @@ You aren't going to find a better-rounded and easy-to-source foam to handle bein
 
 ## 6# XLPE&#x20;
 
-<div align="left"><figure><img src="../../../../../.gitbook/assets/Untitled (25).jpg" alt=""><figcaption><p>6lb Closed-Cell Cross Linked Polyethylene</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../../../.gitbook/assets/Untitled (25).jpg" alt=""><figcaption><p>6lb Closed-Cell Cross Linked Polyethylene</p></figcaption></figure></div>
 
 | Use Case         | Grade          |
 | ---------------- | -------------- |
