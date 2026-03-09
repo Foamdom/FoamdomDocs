@@ -28,11 +28,13 @@ Beveling the edges of solid rods can help with this, but reduces the surface are
 
 Generally, in weapons with a poorly executed or under-done biscuit, you will see where the end of the core has "chewed out" an area of the foam above it that is much larger across than the core itself. This guide covers methods for mitigating this, providing for spreading out forces on both thrusts and lateral impacts, and for graduated compression on thrusts.
 
-## Big Biscuit
+## How Biscuit?
+
+### Big Biscuit
 
 This is my recommended method, which is what is referenced above regarding mitigating specific issues that occur with most traditional methods that I have come across.
 
-### Step 1: Strapping Tape Buffer
+#### Step 1: Strapping Tape Buffer
 
 The sharp edges and (often) hollow center of cores will cut into the foam aggressively. To prevent this and make your biscuits and tips last longer, it is important to cover this. Using a fiberglass reinforced tape is the lightest and most durable option.
 
@@ -50,7 +52,7 @@ Fold down the ends of each piece of tape firmly with no slack or creases.
 
 It is ok if you get little "wings" as shown in the image, but it is best if there is exposed adhesive on each so they can be laid flat against the core before moving on.
 
-### Step 2: Secure the Buffer
+#### Step 2: Secure the Buffer
 
 <figure><img src="../../.gitbook/assets/biscuit003.png" alt=""><figcaption></figcaption></figure>
 
@@ -58,7 +60,7 @@ Do a spiral wrap of either strapping tape or an appropriate fabric tape. This ta
 
 This tape will both dull the edges of the end of the core and prevent the biscuit from going inside the hollow.
 
-### Step 3: Apply the Biscuit
+#### Step 3: Apply the Biscuit
 
 In this example:
 
@@ -79,13 +81,13 @@ After removing the backing, place the taped face against the taped end of the co
 Overkill Option: Before applying the Carpet Tape to the Biscuit, you can skin the bottom face with strapping tape to make it even more resilient against the core cutting into the foam. If your Carpet Tape has no fiber mesh, I would recommend this. A single layer should suffice in either instance.
 {% endhint %}
 
-### Step 4: Secure the Biscuit
+#### Step 4: Secure the Biscuit
 
 <figure><img src="../../.gitbook/assets/biscuit005.png" alt=""><figcaption></figcaption></figure>
 
 Take two 6-7" strips of 1/2"-3/4" wide strapping tape and place them in an "x" over the top of the biscuit.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/biscuit006.png" alt=""><figcaption></figcaption></figure>
 
 Pull the ends of the strips of Strapping Tape down to the core, laying their ends flat and avoiding creating "wings".
 
@@ -93,17 +95,17 @@ This needs to be done in tension, and the biscuit must remain evenly centered on
 
 When finished, it should look like the image, with the biscuit bent slightly around the end of the core, and all but the last 1/2" or so of the tape "bridged" and not attached to a surface.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/biscuit008.png" alt=""><figcaption></figcaption></figure>
 
 Starting where the tape begins to bridge and come away from the core and going up to just below the biscuit, do a spiral wrap of 1/2"-3/4" wide strapping tape. This needs to be done very tightly, pulling the bridged tape from the previous step tight to the core and locking the biscuit in place.
 
-### Step 5: Prepare Taped Region of Core for Adhesives
+#### Step 5: Prepare Taped Region of Core for Adhesives
 
 To finish the biscuit assembly, it is important to prepare it for adhesives. Good Strapping Tape will adhere well to itself, but does not do well when having adhesive applied to it. This is both a problem of the liquid adhesive breaking down the adhesive in the tape if it works its way under it and of adhesive not always adhering well to the plastic backing. In the case of it breaking down the tape adhesive this could cause it to slip and lose tension or shift before it cures.
 
 Fabric tapes, especially Hockey Tape, are a great fix for this. They adhere well to themselves and strapping tape, and provide an absorbent, textured, surface for adhesives. Applied in a tight spiral wrap, the tension in the tape will hold it even more secure.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/biscuit007.png" alt=""><figcaption></figcaption></figure>
 
 Apply a spiral wrap of an appropriate fabric tape in tension to cover the plastic-backed tape, stopping flush with the bottom of the biscuit.
 
@@ -111,9 +113,9 @@ Apply a spiral wrap of an appropriate fabric tape in tension to cover the plasti
 It can also be beneficial to cover the bottom and side faces of the biscuit, but this shouldn't be done as part of the spiral wrap.
 {% endhint %}
 
-## Other Methods and Relevant Techniques
+### Other Methods and Relevant Techniques
 
-### Tiny Biscuits
+#### Tiny Biscuits
 
 Most often, I see biscuits where the foam piece is the same diameter as, or just slightly larger than, the core. These tend to come off the end of the core easily, or just aren't effective long term because they protect a much smaller area of the foam above/around them. This is especially so when they are just glued on, or taped down without that tape then having a spiral wrap to secure it in place, etc.\
 \
@@ -123,7 +125,7 @@ Even worse, many of these are made using the same foam as the striking region an
 
 For these reasons, I can't recommend any method that relies on these. There are many examples of builds in the wild that have been successful and weapons that have lasted a long time with tiny Biscuits, but there are too many lost opportunities for increased durability, safety, and friendliness when going that route.
 
-### "Full Coverage" Biscuits
+#### "Full Coverage" Biscuits
 
 Every so often, instead of a cap over the end of the core, I've seen someone take a disc of 4# XLPE or Puzzle Mat that is the same diameter/shape as their striking region and, after applying their striking foam flush to the end of the core, place that on the end of their striking foam/core.
 
@@ -135,7 +137,7 @@ There are multiple caveats with this design.
 
 For these reasons, I can't recommend any method that relies on this design.
 
-### Leather as a Biscuit
+#### Leather as a Biscuit
 
 This can be an effective buffer, and is largely a more-durable, more-flexible, version of using the 4# XLPE or Puzzle Mat when used at the same 1.25" diameter. It doesn't contribute to graduation compression for thrusts, though, and isn't truly \*more\* effective than just putting strapping tape on the bottom face of a Big Biscuit.
 
@@ -143,6 +145,6 @@ If you have scrap leather, mounting a piece on the end of the core before applyi
 
 At the very least, I can't recommend leather \*alone\* as a Biscuit.
 
-### Tape as a Biscuit
+#### Tape as a Biscuit
 
 You're lying to yourself. Stop.
