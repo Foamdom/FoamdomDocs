@@ -84,7 +84,7 @@ Unless you are in a pinch, though, I can't recommend this as a viable primary op
 
 ## Wheel Weights
 
-<div align="left"><figure><img src="../../.gitbook/assets/image.png" alt="" width="188"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (3).png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 Wheel Weights are commonly used to balance wheels so that spin with less eccentricity and come in ¼ oz, 1/2oz, and 1 oz variants. They usually have an adhesive backing intended to stick to and hold to the rim of a wheel on a car and be exposed to all of the stresses that those wheels/tires are. Some are also coated so that they resist rust, etc.\
 \

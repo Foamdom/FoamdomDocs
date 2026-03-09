@@ -96,7 +96,7 @@
     * [Heat-Bending PVC (Stub)](build-techniques/general/working-with-pvc/heat-bending-pvc-stub.md)
     * [PVC Cladding (Stub)](build-techniques/general/working-with-pvc/pvc-cladding-stub.md)
 * [Striking Regions](build-techniques/striking-regions/README.md)
-  * [Biscuiting Cores (stub)](build-techniques/striking-regions/biscuiting-cores.md)
+  * [Biscuiting Cores](build-techniques/striking-regions/biscuiting-cores.md)
   * [Core Box (stub)](build-techniques/striking-regions/core-box.md)
   * [Omnis](build-techniques/striking-regions/omnis/README.md)
     * [Clubs/Maces/Glaives (stub)](build-techniques/striking-regions/omnis/clubs-maces-glaives.md)
