@@ -74,7 +74,7 @@ _Note: Pommels are required to not be able to pass 1/2" through a 2" hole and fo
   * Only the bottom two discs actually need to be the full 2.25" size. You can create a taper by using successively smaller discs, or create a dynamic profile to suit your needs, so long as the core cannot be felt through the side of the pommel and it still has a solid connection to the core.
 * Punch holes through the middle of 3 of them that are the size of the core.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
