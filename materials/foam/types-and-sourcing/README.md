@@ -4,30 +4,30 @@ description: Click through to included pages for more information.
 
 # Types & Sourcing
 
-## [Closed Cell Foams](closed-cell-foams/)
+## [closed-cell-foams](closed-cell-foams/ "mention")
 
-### [Plastic Foams](closed-cell-foams/plastic-foams/)
+### [plastic-foams](closed-cell-foams/plastic-foams/ "mention")
 
-#### [PO (Polyolefin)](closed-cell-foams/plastic-foams/po-polyolefin.md)
+#### [po-polyolefin.md](closed-cell-foams/plastic-foams/po-polyolefin.md "mention")
 
-#### [PE/XLPE (Polyethylene)](closed-cell-foams/plastic-foams/pe-xlpe-polyethylene/)
+#### [pe-xlpe-polyethylene](closed-cell-foams/plastic-foams/pe-xlpe-polyethylene/ "mention")
 
-[Plastazote Foams](closed-cell-foams/plastic-foams/pe-xlpe-polyethylene/plastazote-foams.md)
+[plastazote-foams.md](closed-cell-foams/plastic-foams/pe-xlpe-polyethylene/plastazote-foams.md "mention")
 
-[VolaraBLOCK](closed-cell-foams/plastic-foams/pe-xlpe-polyethylene/volarablock-stub.md)
+[volarablock-stub.md](closed-cell-foams/plastic-foams/pe-xlpe-polyethylene/volarablock-stub.md "mention")
 
-#### [EVA/PEVA (Polyethylene-Vinyl Acetate)](closed-cell-foams/plastic-foams/eva-peva-polyethylene-vinyl-acetate.md)
+#### [eva-peva-polyethylene-vinyl-acetate.md](closed-cell-foams/plastic-foams/eva-peva-polyethylene-vinyl-acetate.md "mention")
 
-### [Rubber Foams](closed-cell-foams/rubber-foams/)
+### [rubber-foams](closed-cell-foams/rubber-foams/ "mention")
 
-#### [EPDM (Ethylene Propylene Diene Monomer)](closed-cell-foams/rubber-foams/epdm-ethylene-propylene-diene-monomer.md)
+#### [epdm-ethylene-propylene-diene-monomer.md](closed-cell-foams/rubber-foams/epdm-ethylene-propylene-diene-monomer.md "mention")
 
-#### [NBR (Nitrile Butadiene Rubber)](closed-cell-foams/rubber-foams/ensolite-nbr-nitrile-butadiene-rubber.md)
+#### [ensolite-nbr-nitrile-butadiene-rubber.md](closed-cell-foams/rubber-foams/ensolite-nbr-nitrile-butadiene-rubber.md "mention")
 
-### [Open Cell Foams](./#open-cell-foams)
+### [open-cell-foams](open-cell-foams/ "mention")
 
-#### [Charcoal Foam](open-cell-foams/charcoal-stub.md)
+#### [charcoal-stub.md](open-cell-foams/charcoal-stub.md "mention")
 
-#### [Lux Foams](open-cell-foams/lux-stub.md)
+#### [lux-stub.md](open-cell-foams/lux-stub.md "mention")
 
-### [Vendor Tubes](vendor-tubes.md)
+### [vendor-tubes.md](vendor-tubes.md "mention")

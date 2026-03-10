@@ -4,9 +4,8 @@ description: Click through to included pages for more information.
 
 # Open Cell Foams
 
-### [Open Cell Foams](./#open-cell-foams)
+#### [charcoal-stub.md](charcoal-stub.md "mention")
 
-#### [Charcoal Foam](charcoal-stub.md)
+#### [lux-stub.md](lux-stub.md "mention")
 
-#### [Lux Foams](lux-stub.md)
-
+#### [other-stub.md](other-stub.md "mention")

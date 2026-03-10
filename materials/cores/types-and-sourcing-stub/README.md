@@ -4,13 +4,13 @@ description: Click through to included pages for more information.
 
 # Types & Sourcing
 
-#### [Solid Fiberglass Rods](../types-and-sourcing/solid-fiberglass-rods.md)
+#### [solid-fiberglass-rods.md](../types-and-sourcing/solid-fiberglass-rods.md "mention")
 
-#### [Fiberglass Tubes](../types-and-sourcing/fiberglass-tubes.md)
+#### [fiberglass-tubes.md](../types-and-sourcing/fiberglass-tubes.md "mention")
 
-#### [Carbon Fiber Tubes](../types-and-sourcing/carbon-fiber-tubes/)
+#### [carbon-fiber-tubes](../types-and-sourcing/carbon-fiber-tubes/ "mention")
 
-[Ordering Custom Carbon](custom-carbon-fiber-cores.md)
+[custom-carbon-fiber-cores.md](custom-carbon-fiber-cores.md "mention")
 
-#### [Other](../types-and-sourcing/other.md)
+#### [other.md](../types-and-sourcing/other.md "mention")
 

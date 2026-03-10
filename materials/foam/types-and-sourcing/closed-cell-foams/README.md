@@ -4,20 +4,20 @@ description: Click through to included pages for more information.
 
 # Closed Cell Foams
 
-### [Plastic Foams](plastic-foams/)
+### [plastic-foams](plastic-foams/ "mention")
 
-#### [PO (Polyolefin)](plastic-foams/po-polyolefin.md)
+#### [po-polyolefin.md](plastic-foams/po-polyolefin.md "mention")
 
-#### [PE/XLPE (Polyethylene)](plastic-foams/pe-xlpe-polyethylene/)
+#### [pe-xlpe-polyethylene](plastic-foams/pe-xlpe-polyethylene/ "mention")
 
-[Plastazote Foams](plastic-foams/pe-xlpe-polyethylene/plastazote-foams.md)
+[plastazote-foams.md](plastic-foams/pe-xlpe-polyethylene/plastazote-foams.md "mention")
 
-[VolaraBLOCK](plastic-foams/pe-xlpe-polyethylene/volarablock-stub.md)
+[volarablock-stub.md](plastic-foams/pe-xlpe-polyethylene/volarablock-stub.md "mention")
 
-#### [EVA/PEVA (Polyethylene-Vinyl Acetate)](plastic-foams/eva-peva-polyethylene-vinyl-acetate.md)
+#### [eva-peva-polyethylene-vinyl-acetate.md](plastic-foams/eva-peva-polyethylene-vinyl-acetate.md "mention")
 
-### [Rubber Foams](rubber-foams/)
+### [rubber-foams](rubber-foams/ "mention")
 
-#### [EPDM (Ethylene Propylene Diene Monomer)](rubber-foams/epdm-ethylene-propylene-diene-monomer.md)
+#### [epdm-ethylene-propylene-diene-monomer.md](rubber-foams/epdm-ethylene-propylene-diene-monomer.md "mention")
 
-#### [NBR (Nitrile Butadiene Rubber)](rubber-foams/ensolite-nbr-nitrile-butadiene-rubber.md)
+#### [ensolite-nbr-nitrile-butadiene-rubber.md](rubber-foams/ensolite-nbr-nitrile-butadiene-rubber.md "mention")

@@ -60,8 +60,8 @@ _Find what you need via the directory below or via the sidebar._
 
 ### Stab Tips
 
-| [stab-tips-on-flat-blades.md](build-techniques/stab-tips/stab-tips-on-flat-blades.md "mention") | [stab-tips-on-omni-blades.md](build-techniques/stab-tips/stab-tips-on-omni-blades.md "mention") |
-| ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| [Broken link](/broken/pages/iHjW9AdBuPA369XNagx6 "mention") | [stab-tips-on-swung-weapons](build-techniques/stab-tips/stab-tips-on-swung-weapons/ "mention") |
+| ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 
 ### Covers & Finishes
 
