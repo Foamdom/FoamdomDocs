@@ -124,17 +124,13 @@ Remove the backing from the Carpet Tape and apply it to the Stab Tip foundation.
 
 In the image, you can see that the Stab Tip foam flares outward. This is to compensate for when the reinforcement tape compresses the foam slightly on application. Starting with this angled face will leave us with a surface parallel to the striking foam once the reinforcement is in place. This would be less prevalent with a thinner piece of foam.
 
-### Multi Layer Stab Tips
+### Multi Layer
 
 If you really, truly, want to use multiple layers of a foam to get up above 0.5" thick for your Stab Tip, just follow the process for the single layer tip twice, or adhere them together with a liquid adhesive before putting it on the weapon and treat it like it's a single layer tip for installation. I do not recommend this, but it is a viable path.
 
 If you are looking to enhance a stab tip's friendliness by adding a layer of Open Cell Foam, I would get through almost the entire build of the tip, stopping just before the final spiral wrap of fabric tape, and then add it on top of the tape securing the layers below it. Securing it with an additional "x" of fabric tape before doing the spiral wrap is all you'd need, as it wouldn't need anything for stability. Especially for longer weapons, building out a stab tip and then adding 0.5" of [lux-stub.md](../../../materials/foam/types-and-sourcing/open-cell-foams/lux-stub.md "mention")or [charcoal-stub.md](../../../materials/foam/types-and-sourcing/open-cell-foams/charcoal-stub.md "mention")to the end can make a noticeable difference in how it feels to get hung up on the end of the weapon.
 
 ## Reinforcement
-
-section in progress
-
-
 
 ### The Full Monty
 
@@ -149,7 +145,9 @@ For this process, the tension of the tape and which parts of the tape are in ten
 To start, prepare four 13"-15" long strips of 1/2"-3/4" wide strapping tape. It can be helpful to mark the center points of these pieces of tape to make applying them evenly easier. Generally, I just fold the non-adhesive faces against each other and find the center that way, as I apply it to the tip.
 
 {% hint style="info" %}
-If you are worried about stability of the Stab Tip Foundation, which could cause buckling \*below\* the Stab Tip foam on longer Stab Tips, placing two of the four strips of strapping tape before attaching the Stab Tip foam can be a very effective way of mitigating issues. If you are doing an indexed handle, it is best to do this on the "corner" faces.
+If you are worried about stability of the Stab Tip Foundation, which could cause buckling \*below\* the Stab Tip foam on longer Stab Tips if there is a problem, placing two of the four strips of strapping tape before attaching the Stab Tip foam can be a very effective way of mitigating issues. If you are doing an indexed handle, it is best to do this on the "corner" faces.&#x20;
+
+Other than doing this before adding that foam, the only thing to change about the process is to start adding tension immediately after going over the edge from the tip onto the striking surface. It may also behoove you to shorten those pieces of tape by 2X the thickness of your Stab Tip foam so they line up with the others, if you like that sort of thing.
 {% endhint %}
 
 Take one of the pieces, and place the center of the tape over the center of the end of the Stab Tip. Let one half hang loose and lay the other down against the foam surface as shown in the image. Across the top of the Stab Tip and down the side of the Stab Tip foam, lay the tape down taut, but not in tension. Right before you cross from the Stab Tip foam to the Stab Tip foundation, apply tension as you lay down the foam.&#x20;
@@ -182,4 +180,6 @@ Instead of 2 offset "x" patterns (or an asterisk), the same process for laying d
 
 I will start by saying that, while this works, I don't actually consider it reinforcement. Tyvec is a great skinning foam, but is prone to splits where foam buckles, which is very much going to work against you in a stab tip at a higher rate of probability than something like Strapping Tape or Hockey Tape would allow.
 
-Follow the same process for laying down the tape in varying levels of tension as with 2 offset "x" patterns of Strapping Tape over the end of the core in the "Full Monty" design but with a 2" wide house wrap tape like Tyvec. This is sometimes done as a single "x".&#x20;
+Follow the same process for laying down the tape in varying levels of tension as with 2 offset "x" patterns of Strapping Tape over the end of the core in the "Full Monty" design but with a 2" wide house wrap tape like Tyvec. This is sometimes done as a single "x".
+
+I've seen this sometimes come with a spiral wrap of fabric tape like is demonstrated in the last step of the "Full Monty" process. This is an improvement, but not much is working to prevent folding and buckling in that tape layup.
