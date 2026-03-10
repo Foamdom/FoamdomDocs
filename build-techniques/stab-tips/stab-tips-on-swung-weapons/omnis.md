@@ -138,26 +138,41 @@ section in progress
 
 ### The Full Monty
 
+I've been iterating on this design, adapted from what I originally learned in 2015/2016 for reinforcing tips for flat blades, since I first started in foam sports. The widths of the strapping tape, where the tape is in tension, and modifications to make for various goals have all fallen into place across that time and been adjusted as outcomes have been observed and adapted to.&#x20;
+
+{% hint style="info" %}
+For this process, the tension of the tape and which parts of the tape are in tension or just taut, matters greatly. The fiberglass in the tape needs to not have any slack, which means that creases must not occur. The foam needs to not be pre-compressed too much, though some pre-compression is unavoidable. The "anchors" (1"-2" at the ends) of the tape need to not be in tension.
+{% endhint %}
+
 <figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-For these next steps, the tension of the tape, and which parts of the tape are in tension or just taut, matters greatly.\
-\- The fiberglass in the tape needs to not have any slack, which means that creases must not occur.\
-\- The foam needs to not be pre-compressed too much, though some pre-compression is unavoidable.\
-\- The "anchors" (1"-2" at the ends) of the tape need to not be in tension.
+To start, prepare four 13"-15" long strips of 1/2"-3/4" wide strapping tape. It can be helpful to mark the center points of these pieces of tape to make applying them evenly easier. Generally, I just fold the non-adhesive faces against each other and find the center that way, as I apply it to the tip.
 
-This is the most complicated and critical process in this build. To start this process, prepare four 13"-15" long strips of 1/2"-3/4" wide strapping tape. It can be helpful to mark the centerpoints of these pieces of tape to make applying them evenly easier.
+{% hint style="info" %}
+If you are worried about stability of the Stab Tip Foundation, which could cause buckling \*below\* the Stab Tip foam on longer Stab Tips, placing two of the four strips of strapping tape before attaching the Stab Tip foam can be a very effective way of mitigating issues. If you are doing an indexed handle, it is best to do this on the "corner" faces.
+{% endhint %}
 
-Take one of the pieces, and place the center of the tape over the center of the end of the Stab Tip. Let one half hang loose and lay the other down against the foam surface as shown in the image. Across the top of the Stab Tip and down the side of the Stab Tip foam, lay the tape down taut, but not in tension. Right before you cross from the Stab Tip foam to the Stab Tip foundation, apply tension as you lay down the foam. When you get to the last 1"-2", lay the rest down with no tension. Repeat this with the other side/half of the piece of tape, making sure to have the tension in both sides as even as possible (made easier by looking at the weapon from the side and seeing if the tip is pulling in one direction or the other.
+Take one of the pieces, and place the center of the tape over the center of the end of the Stab Tip. Let one half hang loose and lay the other down against the foam surface as shown in the image. Across the top of the Stab Tip and down the side of the Stab Tip foam, lay the tape down taut, but not in tension. Right before you cross from the Stab Tip foam to the Stab Tip foundation, apply tension as you lay down the foam.&#x20;
+
+When you get to the last 1"-2", lay the rest down with no tension. Repeat this with the other side/half of the piece of tape, making sure to have the tension in both sides as even as possible (made easier by looking at the weapon from the side and seeing if the tip is pulling in one direction or the other.
 
 Repeat this with the other strips of tape, starting with the perpendicular angle to the already-applied piece.
 
+{% hint style="info" %}
 If you \*didn't\* do this over Tyvec and used a foam with a low tensile strength like LD15, you will almost definitely see tears at the ends of your anchors develop quickly.
+{% endhint %}
 
 <figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-Cover each of the pieces of strapping tape with a piece of Hockey Tape. This should be placed taut, with no tension, avoiding creases. You do not want to add any additional compression of the foam with this tape, as that would bend fibers in the strapping tape. This tape is here as additional reinforcement and to soften the surface.  Once that is done, apply a spiral wrap of Hockey Tape. Start with the tape covering the transition of the stab tip foam and spiral downward until the ends of each of the pieces going over the end of the weapon are covered. This tape should be applied tight, but not so tight that it compresses the foam, except for the "excess" from the Stab Tip foam flaring out (if you did yours that way).  This design ensures that there is minimal strapping tape on the striking surface, that any that is there is covered by something softer, and that there are never more than 3-4 layers of tape covering any area on the striking surface\*. It also provides a more-resilient weapon for tip-heavy combat, as the additional skin of the fabric tape spreads out forces and protects the foam much more than just Tyvec itself would. The wrap also incidentally spreads out the forces of the anchoring strips at the base, which mitigates wear even further at the ends of the anchors.  \* 4 layers if done over Tyvec. This number also doesn't account for the overlap seam of the spiral wrap technically creating an additional layer.
+Cover each of the pieces of strapping tape with a piece of Hockey Tape. This should be placed taut, with no tension, avoiding creases. You do not want to add any additional compression of the foam with this tape, as that would bend fibers in the strapping tape. This tape is here as additional reinforcement and to soften the surface.  &#x20;
+
+Once that is done, apply a spiral wrap of Hockey Tape. Start with the tape covering the transition of the stab tip foam and spiral downward until the ends of each of the pieces going over the end of the weapon are covered. This tape should be applied tight, but not so tight that it compresses the foam, except for the "excess" from the Stab Tip foam flaring out (if you did yours that way).  
+
+This design ensures that there is minimal strapping tape on the striking surface, that any that is there is covered by something softer, and that there are never more than 3-4 layers of tape covering any area on the striking surface\*. It also provides a more-resilient weapon for tip-heavy combat, as the additional skin of the fabric tape spreads out forces and protects the foam much more than just Tyvec itself would. The wrap also incidentally spreads out the forces of the anchoring strips at the base, which mitigates wear even further at the ends of the anchors.  \* 4 layers if done over Tyvec. This number also doesn't account for the overlap seam of the spiral wrap technically creating an additional layer.
 
 <figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+When you are done, you should have 5"-6" of reinforcement at the tip of your weapon. Pay attention to how the part of the Stab Tip foam that is under the spiral wrap of fabric tape is compressed flush with the surface of the striking foam below. This will increase stability and make the compression of the Stab Tip foam more linear. The cover will compress the "corners" that stick out above that and that degree of pre-compression will not be problematic.
 
 ### Equilateral Triangle
 
