@@ -9,9 +9,9 @@ The concept of a piercing tip covers stab tips for all types weapons designed fo
 Types of Piercing Tip
 
 * Stab Tips
-  * [stab-tips-on-swung-weapons](stab-tips-on-swung-weapons/ "mention")
+  * [stab-tips-on-omni-blades.md](stab-tips-on-omni-blades.md "mention")
   * [spearheads-stub.md](spearheads-stub.md "mention")
-  * [javelin-heads-stub.md](javelin-heads-stub.md "mention")
+  * [javelin-tips-stub.md](javelin-tips-stub.md "mention")
 * [arrowheads-stub.md](arrowheads-stub.md "mention")
 
 There are three main parts to any Piercing Tip.
