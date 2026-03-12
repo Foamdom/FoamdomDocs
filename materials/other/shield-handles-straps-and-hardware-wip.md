@@ -36,6 +36,8 @@ A flexible strap with handle around it or attached to it. Some are loose, some a
 
 ### Nylon
 
+### Backpack Straps
+
 ## Hardware
 
 ### D Rings
