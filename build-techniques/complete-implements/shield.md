@@ -84,3 +84,20 @@ Starting with considering what materials are available to you is important becau
     * 2# XLPE at this thickness would be good for skinning the front face of a shield make from foams less durable than it, like Blue Ozark Camp Pads and other large-cell PE foams.
       * 4# XLPE would be a straight upgrade in this case.
     * If you really were laminating this, just use straight math (2 layers of 1/4" == 1 layer of 1/2", etc) for substitution and work with the recommendations for thicker sheets of the same foam type as you are using.
+  * 2# or 4# EVA
+    * Great as a surfacing foam for carving, shaping, and plastidipping.
+
+### Handles
+
+* Punch Shields
+*   Strap Shields
+
+    * Rigid U-Shaped Handles
+      *
+    *   Strap Handles
+
+        * Could just be a tight strap, made from the same material as the forearm strap.
+        * Could be a "flexible grab handle", which is a strap with a formed handle on it to provide a better grip.
+
+
+

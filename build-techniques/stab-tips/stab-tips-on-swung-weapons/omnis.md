@@ -108,7 +108,7 @@ Other foams break down too quickly and should be avoided.
 
 #### Applying a Single Layer Stab Tip
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 Apply Carpet Tape to the bottom face of your Stab Tip.
 
@@ -118,7 +118,7 @@ EPDM foam is a softer option and my preferred option is to use that at 3/4" thic
 \
 I have also heard good things about using both 2# XLPE and Minicel L200 (which is a special, softer, 2# XLPE). These will be similarly stable to NBR, but will be less elastic and not as springy, which can result in a stiffer-feeling tip on impact.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Remove the backing from the Carpet Tape and apply it to the Stab Tip foundation.
 
@@ -140,7 +140,7 @@ I've been iterating on this design, adapted from what I originally learned in 20
 For this process, the tension of the tape and which parts of the tape are in tension or just taut, matters greatly. The fiberglass in the tape needs to not have any slack, which means that creases must not occur. The foam needs to not be pre-compressed too much, though some pre-compression is unavoidable. The "anchors" (1"-2" at the ends) of the tape need to not be in tension.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 To start, prepare four 13"-15" long strips of 1/2"-3/4" wide strapping tape. It can be helpful to mark the center points of these pieces of tape to make applying them evenly easier. Generally, I just fold the non-adhesive faces against each other and find the center that way, as I apply it to the tip.
 
@@ -160,7 +160,7 @@ Repeat this with the other strips of tape, starting with the perpendicular angle
 If you \*didn't\* do this over Tyvec and used a foam with a low tensile strength like LD15, you will almost definitely see tears at the ends of your anchors develop quickly.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Cover each of the pieces of strapping tape with a piece of Hockey Tape. This should be placed taut, with no tension, avoiding creases. You do not want to add any additional compression of the foam with this tape, as that would bend fibers in the strapping tape. This tape is here as additional reinforcement and to soften the surface.  &#x20;
 

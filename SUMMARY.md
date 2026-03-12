@@ -59,6 +59,7 @@
     * [Strapping Tape](materials/tape/strapping-tape.md)
     * [Cloth/Fabric Tape](materials/tape/cloth-fabric-tape.md)
 * [Other](materials/other.md)
+  * [Shield Handles, Straps, and Hardware (WIP)](materials/other/shield-handles-straps-and-hardware-wip.md)
   * [Handle Wrap Options (Stub)](materials/other/handle-wrap-options-stub.md)
   * [Cover Fabric (Stub)](materials/other/cover-fabric-stub/README.md)
     * [Fabric Paints/Coloring (Stub)](materials/other/cover-fabric-stub/fabric-paints-coloring-stub.md)
