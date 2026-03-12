@@ -137,7 +137,7 @@
   * [Spear (in progress)](build-techniques/complete-implements/spear.md)
   * [Javelin (stub)](build-techniques/complete-implements/javelin-stub.md)
   * [Arrow (stub)](build-techniques/complete-implements/arrow-stub.md)
-  * [Shield (stub)](build-techniques/complete-implements/shield-stub.md)
+  * [Shield](build-techniques/complete-implements/shield.md)
 
 ## Weapon Storage
 

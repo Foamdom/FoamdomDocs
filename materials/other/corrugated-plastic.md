@@ -10,7 +10,7 @@ Shield cores made from Coroplast are mostly air, even moreso than many foams, an
 \
 These layers can be held together with double sided indoor-outdoor carpet tape or a contact adhesive to great effect. The latter is more efficient for both cost and time, and also goes better if the surface has been cleaned and roughened with a coarse-grit sandpaper. To make panels that are larger than the signs you get would allow with a single sign, doing overlapping layers (with no aligned seams) is a viable path. Any seams that are exposed on the outer surface of the finished panel, as well as the exterior perimeter, should be covered in either duct tape or strapping tape before adhering foam to the core, as the backing on the tape will help protect the foam from the sharp edges of the Coroplast.
 
-See the [shield-stub.md](../../build-techniques/complete-implements/shield-stub.md "mention") page in the Build Techniques/Complete Implements section for more information about making and working with Coroplast Shield cores.
+See the [shield.md](../../build-techniques/complete-implements/shield.md "mention") page in the Build Techniques/Complete Implements section for more information about making and working with Coroplast Shield cores.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Untitled (48).jpg" alt="" width="206"><figcaption><p>4mil coroplast compared to 10mil.</p></figcaption></figure></div>
 
