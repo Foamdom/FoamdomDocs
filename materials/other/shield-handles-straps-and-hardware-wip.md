@@ -2,7 +2,7 @@
 description: This page is under construction.
 ---
 
-# Shield Handles, Straps, and Hardware (WIP)
+# Shield Handles, Straps, & Hardware (WIP)
 
 ## Straight Handles
 
@@ -15,6 +15,10 @@ These can be made in a variety of ways. Some are just bulky pull handles with an
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://www.kipp.com/gb/en/Products/Operating-parts-standard-elements/Stirrup-shaped-handles-machine-handles-apparatus-handles/Pull-handles-plastic-slanted-both-sides-with-soft-inner-face.html" %}
+
+<figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+
+{% embed url="https://www.amazon.com/dp/B000FK5ISY?ref=cm_sw_r_cso_cp_apan_dp_84DRXW39MG32GBTV7TXE" %}
 
 ## Flexible Grab Handles
 
