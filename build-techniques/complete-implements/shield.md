@@ -87,7 +87,7 @@ Starting with considering what materials are available to you is important becau
   * 2# or 4# EVA
     * Great as a surfacing foam for carving, shaping, and plastidipping.
 
-### Handles
+#### Handles
 
 * Punch Shields
   * Most commonly, these are PVC suspended across a recess in the rear face of the shield. Schedule 40 is generally sufficient.
@@ -111,9 +111,32 @@ Starting with considering what materials are available to you is important becau
       * This will remove the concern of the handle twisting out of its adhesive bond if these are embedded in foam, especially with injected hot glue, epoxy, or construction adhesive.
     * Can be used at the ends of heat-molded Bridge Handles to create "feet" that keep the handle stable and allow for sturdy anchoring with heavy duty zip ties, etc.&#x20;
 
-### Adhesives
+#### Adhesives
 
-### Cover Materials
+* Surface Bonding
+  * Contact Adhesives like Super 77, FoamFast 74, DAP, Barge, etc, are all just as relevant here as they are in other cases.
+    * For foam to foam and foam to core, these are generally decent, but I would not use something like FoamFast 74 to laminate layers of Coroplast to each other, as an example, rather using Super 77 for that and the 74 for the rest.
+  * Double-sided tapes, like Carpet Tapes (specifically rated for outdoor and high traffic use) are also good options, but are generally not as resilient when all else is equal in this application.
+    * When laminating sheets of material with double-sided tapes, it is generally best to do an outline of the perimeter and spaced out stripes or an "X" to cover the surface.
+    * It is generally more efficient and economical to laminate sheets of coroplast and foam with Contact Adhesive than with tapes.
+    * Surface bonding with double-sided tapes is generally most helpful for putting edge banding/padding on your shields.
+* Seam Coverage and Securement
+  * Contact Adhesives aren't relevant to this.
+  * Single-sided tapes
+    * Strapping Tape
+      * King of durable tapes. Will not stretch and super lightweight. Generally ugly when on the surface of an otherwise nicely finished weapon.
+      * Would use for any seam coverage or securement that is going to be covered by anything else to increase durability and reduce weight.
+    * Duct Tape
+      * Great for creating a clean rear face on shields with lots of seams, or for when securing a cover.
+      * Can look fine in classic grey/silver, but much better in a modern black, especially from a heavy duty duct tape brand like Gorilla Tape.
+* Other
+  * Cloth Tape
+    * Hockey Tapes can be great as grip tape for handle wraps.&#x20;
+    * Is also a great way to cap the ends of straps of cotton canvas, etc. so they don't fray.
+      * Would just fold over end after cutting the strap, and then sew through the tape to secure it in place and create a very nice and durable cap for the end of the strap that is also soft and pliable.
+    * Cloth tape is not very helpful for shields outside of handle wraps and strap modifications.
+
+#### Cover Materials
 
 {% hint style="info" %}
 Unfortunately, covers aren't actually required for shields in Belegarth. Wild, right? Raise your concerns with the nearest War Council Rep if you feel this needs to change.
