@@ -90,14 +90,51 @@ Starting with considering what materials are available to you is important becau
 ### Handles
 
 * Punch Shields
-*   Strap Shields
+  * Most commonly, these are PVC suspended across a recess in the rear face of the shield. Schedule 40 is generally sufficient.
+    * Sometimes this will be Wood, Fiberglass, or Carbon Fiber instead of PVC.
+  * In rare cases, you will see a handle that sticks out from the rear face of the shield, or a "Bridge" handle.
+    * The same concept as what you'd see on most fridges and many drawers, etc.&#x20;
+    * Sometimes hard plastic handles with overmolds, sometimes things like trowels with robust handles or manual sanders repurposed, and sometimes even heat-molded PVC (Schedule 40 is generally sufficient).
+    * Could still come with a recess to make room for the hand if the gap between the handle and rear face of the shield is small.&#x20;
+* Strap Shields
+  * Rigid "Bridge" Handles
+    * The same concept as what you'd see on most fridges and many drawers, etc.&#x20;
+    * Sometimes hard plastic handles with overmolds, sometimes things like trowels with robust handles or manual sanders repurposed, and sometimes even heat-molded PVC (Schedule 40 is generally sufficient).
+    * Rarely, you will see a strap shield where the hand-hold is recessed and a straight bar flush with the rear face of the shield, made of PVC/Wood/Fiberglass/Etc, as the handle.&#x20;
+  * Strap Handles
+    * Could just be a tight strap, made from the same material as the forearm strap.
+    * Could be a "flexible grab handle", which is a strap with a formed handle on it to provide a better grip.
+* PVC Handles
+  * Handles made of PVC have a distinct advantage in that they can be heat molded.&#x20;
+    * This allows for the ends to be flattened, split, and flayed into a "V" shape, which creates a much more stable mounting feature.
+    * Can use much shorter pieces of PVC for "standard" surface-flush handles in Punch Shields.&#x20;
+      * This will remove the concern of the handle twisting out of its adhesive bond if these are embedded in foam, especially with injected hot glue, epoxy, or construction adhesive.
+    * Can be used at the ends of heat-molded Bridge Handles to create "feet" that keep the handle stable and allow for sturdy anchoring with heavy duty zip ties, etc.&#x20;
 
-    * Rigid U-Shaped Handles
-      *
-    *   Strap Handles
+### Adhesives
 
-        * Could just be a tight strap, made from the same material as the forearm strap.
-        * Could be a "flexible grab handle", which is a strap with a formed handle on it to provide a better grip.
+### Cover Materials
 
+{% hint style="info" %}
+Unfortunately, covers aren't actually required for shields in Belegarth. Wild, right? Raise your concerns with the nearest War Council Rep if you feel this needs to change.
+{% endhint %}
 
+* Fabric Covers
+  * Shields take a decent amount of abuse on the field and tend to not be treated as well when dropped on the field, in storage/transport, etc.&#x20;
+    * Because of this, it is a good idea to focus on durable fabrics. Weapons may be able to have a trouser sock last most of a season as a cheapo cover, but similar will often not fly with shields.&#x20;
+  * Elastic fabrics on shield covers is just asking for a bad time.&#x20;
+    * The fabric having a little give/stretch to it is not a problem, but too much would see a drawstring cover potentially be able to come off the shield or, in that and other cases, become a snag risk in ways a less stretchy fabric wouldn't.
+  * Covers will need secured to the shield, which takes additional materials.
+    * Drawstring covers will require some form of cordage for a drawstring, thread to sew the channel for the string, and a way to do the sewing.
+      * Paracord is the best option for this, but other synthetic ropes can also work well.
+    * Other than just being fit over the shield and held on by the drawstring, essentially able to rotate around the shield if it's a round shield, covers can also be "upholstered" in a sense, to the shield.&#x20;
+      * This is generally done by folding the cover over the edge of the shield and taping the fabric down to the rear face of the shield.
+      * Sometimes it can be helpful to put down a double-sided tape rated for outdoor use to help tack down the cover on the rear face before creating the tape "seam" that fully secures it in place.
+      * For the tape seam, I have found that a heavy duty duct tape (such as Gorilla Tape) is the most appropriate, as it will have a combination of appearance, durability, and strength of bond that is the most optimal for the need.
+  * Plasti Dip
+    * A "plastidipped" shield will have specific construction considerations relevant to the areas that would be dipped/painted.
+      * Generally the outer foam will be EVA instead of a PE or XLPE, as this handles carving better and has a less-textured surface than even XLPE would allow for, which makes for much better results when coated in Plasti Dip.
+      * Those better results are, in part, due to the spray form of Plasti Dip not filling any voids and rather creating a thin film that is very true to the texture of the surface it is being applied to.&#x20;
+        * The non-spray form of Plasti Dip could be used to get around this, but it would create a much thicker surface. Using it judiciously to fill voids and then doing a layer of spray Plasti Dip would be effective.
+    * For more information on Plasti Dip, see the page dedicated to it: [plasti-dip.md](../../materials/other/plasti-dip.md "mention")
 
